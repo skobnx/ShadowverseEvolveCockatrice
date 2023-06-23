@@ -1,0 +1,977 @@
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set>
+        	<name>BP01</name>
+			<longname>BP01 Advent of Genesis</longname>
+			<settype>Expansion</settype>
+        </set>
+		<set>
+			<name>SD01</name>
+			<longname>SD01 Regal Fairy Princess</longname>
+			<settype>Starter</settype>
+		</set>
+		<set>
+			<name>SD04</name>
+			<longname>SD04 Wrath of the Greatwyrm</longname>
+			<settype>Starter</settype>
+		</set>
+    </sets>
+    <cards>
+		<!-- BP01 Main -->
+  		<card>
+  			<name>Rose Queen</name>
+  			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-001EN.png">BP01</set>
+  			<tablerow>2</tablerow>
+  			<text>(F) Select any number of Pixie followers in your EX area and transform them into Thorn Burst tokens.
+(A) (tap): Recover X play points. X equals the number of Thorn Burst tokens in your EX area.</text>
+  			<prop>
+  				<manacost>8</manacost>
+  				<cmc>8</cmc>
+  				<type>Follower|Forestcraft - Verdant</type>
+  				<pt>7/7</pt>
+  				<maintype>Follower</maintype>
+  			</prop>
+  		</card>
+		<card>
+			<name>Ancient Elf</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-002EN.png">BP01</set>
+			<tablerow>2</tablerow>
+			<text>(E) 1: Evolve this follower.
+Ward.
+(F) Return another card on your field to its owner’s hand: Give this follower +1/+1
+			</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Forestcraft - Elf</type>
+				<pt>2/2</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Ancient Elf (Evolved)</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-003EN.png">BP01</set>
+			<tablerow>2</tablerow>
+			<text>Ward.
+On Evolve, return another card on your field to its owner’s hand: Give this follower +1/+1.
+			</text>
+			<prop>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type>Follower|Evolve|Forestcraft - Elf</type>
+				<pt>3/3</pt>
+				<maintype>Follower|Evolve</maintype>
+			</prop>
+		</card>
+
+		<card>
+			<name>Aiela, Dragon Knight</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-079EN.png">BP01</set>
+			<tablerow>2</tablerow>
+			<text>Assail.
+(L) Increase your maximum play points by 1.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Dragoncraft - Dragonheart</type>
+				<pt>3/2</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<!-- BP01 Leaders -->
+		<card>
+			<name>Arisa</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD01EN.png">BP01</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Forestcraft</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Aria, Dancing Fairy</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD02EN.png">BP01</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Forestcraft</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Erika</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD03EN.png">BP01</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Swordcraft</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Aurelia, Blooming Blade</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD04EN.png">BP01</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Swordcraft</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Isabelle</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD05EN.png">BP01</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Runecraft</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Erasmus, Magical Sage</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD06EN.png">BP01</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Runecraft</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Rowen</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD07EN.png">BP01</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Dragoncraft</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Zirnitra, Zealous Wings</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD08EN.png">BP01</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Dragoncraft</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Luna</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD09EN.png">BP01</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Abysscraft</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Urias</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD10EN.png">BP01</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Abysscraft</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Eris</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD11EN.png">BP01</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Havencraft</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Ramina, Crescent Beast</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD12EN.png">BP01</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Havencraft</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+		<!-- BP01 Tokens -->
+		<card>
+			<name>Thorn Burst</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T01EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<text>Select an enemy leader or enemy follower on the field. Deal it 3 damage and draw a card.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Spell|Token|Forestcraft</type>
+				<maintype>Spell|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Fairy Wisp</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T02EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<prop>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type>Follower|Token|Forestcraft - Pixie</type>
+				<pt>1/1</pt>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Fairy</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-T01EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Follower|Token|Forestcraft - Pixie</type>
+				<pt>1/1</pt>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Otohime’s Bodyguard</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T04EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<text>Ward.</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Follower|Token|Swordcraft - Officer</type>
+				<pt>1/2</pt>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Knight</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T05EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Follower|Token|Swordcraft - Officer</type>
+				<pt>1/1</pt>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Viking</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T06EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<text>Storm.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Token|Swordcraft - Thief</type>
+				<pt>3/2</pt>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Steelclad Knight</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T07EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Token|Swordcraft - Officer</type>
+				<pt>2/2</pt>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Strikeform Golem</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T08EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<text>Rush.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Token|Runecraft - Golem</type>
+				<pt>3/2</pt>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Guardform Golem</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T09EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<text>Ward.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Token|Runecraft - Golem</type>
+				<pt>2/3</pt>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Magic Sediment</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T10EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<text>Stack. (Amulets with Stack are put onto the field with 1 Stack counter and have the following abilities.
+When this card would leave the field, remove 1 Stack counter from it instead. When this card’s Stack count reaches 0, destroy it.
+(A) (tap) : Select another amulet with Stack on your field and transfer all this card’s Stack counters to that card.
+			</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Amulet|Token|Runecraft - Earth Sigil</type>
+				<maintype>Amulet|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Dragon</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T11EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Token|Dragoncraft - Wyrmkin</type>
+				<pt>5/5</pt>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Mimi</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T12EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<text>Select an enemy follower on the field and deal it 2 damage.</text>
+			<prop>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type>Spell|Token|Abysscraft</type>
+				<maintype>Spell|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Coco</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T13EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<text>Select a follower on your field and give it +2/+0.</text>
+			<prop>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<type>Spell|Token|Abysscraft</type>
+				<maintype>Spell|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Ghost</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T14EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<text>Storm.
+At the start of your end phase, banish this card.</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Follower|Token|Abysscraft - Departed</type>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Forest Bat</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T15EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Follower|Token|Abysscraft - Vampire</type>
+				<pt>1/1</pt>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Holy Falcon</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T16EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<text>Storm.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Token|Havencraft - Avian</type>
+				<pt>2/2</pt>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Holy Tiger</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-T17EN.png">BP01</set>
+			<tablerow>0</tablerow>
+			<text>Rush.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Token|Havencraft - Beast</type>
+				<pt>4/4</pt>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<!-- SD01 Main -->
+		<card>
+			<name>Aria, Fairy Princess</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-001EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>Ward.
+(F) Put up to 9 Fairy tokens onto your field or into your EX area.
+While this card is on your field, your other Pixie followers have Rush.</text>
+			<prop>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<type>Follower|Forestcraft - Pixie/Princess</type>
+				<pt>5/5</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Titania’s Sanctuary</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-002EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>(F) Give each Pixie token on your field +1/+1.
+While this card is on your field, your Pixie tokens have Assail.
+Whenever a Pixie token is put onto your field, give it +1/+1.
+			</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Amulet|Forestcraft - Pixie/Princess</type>
+				<maintype>Amulet</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Rose Gardener</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-003EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>(E) (1): Evolve this follower.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Forestcraft - Verdant</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Rose Gardener (Evolved)</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-004EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>On Evolve: Select an enemy follower on the field and return it to its owner’s hand. Combo (3): Draw a card. (Tokens returned to a player’s hand are removed from the game.)</text>
+			<prop>
+				<type>Follower|Evolve|Forestcraft - Verdant</type>
+				<pt>4/4</pt>
+				<maintype>Follower|Evolve</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Waltzing Fairy</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-005EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>(F) (L) Put a Fairy token into your EX area.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Forestcraft - Pixie</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Fairy Caster</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-006EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>(F) Summon 3 Fairy tokens. If your field becomes full from this effect, put any remaining tokens into your EX area.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Forestcraft - Elf</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Elf Metallurgist</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-007EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>(F) Select an enemy follower on the field and deal it 1 damage. Combo (3): Deal 3 damage instead. (If you’ve played at least 3 cards this turn, including this one, perform Combo (3).)</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Forestcraft - Elf</type>
+				<pt>3/2</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Okami</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-008EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>Whenever another follower is put onto your field, give this follower +1/+1.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Forestcraft - Beast</type>
+				<pt>5/5</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Treant</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-009EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>(E) (2): Evolve this follower.
+(F) Combo (3): Change this card’s (E) cost to 0. (If you’ve played at least 3 cards this turn, including this one, perform Combo (3).)</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Forestcraft - Fae-Touched</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Treant (Evolved)</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-010EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<prop>
+				<type>Follower|Evolve|Forestcraft - Fae-Touched</type>
+				<pt>5/5</pt>
+				<maintype>Follower|Evolve</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Water Fairy</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-011EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>(E) (2): Evolve this follower.
+(L) Put a Fairy token into your EX area.</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Follower|Forestcraft - Pixie</type>
+				<pt>1/1</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Water Fairy (Evolved)</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-012EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>On Evolve: Summon a Fairy token.
+(L) Put a Fairy token into your EX area.</text>
+			<prop>
+				<type>Follower|Evolve|Forestcraft - Pixie</type>
+				<pt>2/2</pt>
+				<maintype>Follower|Evolve</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Elf Wanderer</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-013EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>Assail. (Followers with Assail can attack reserved followers.)
+This follower ignores Ward.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Forestcraft - Elf</type>
+				<pt>2/3</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Fairy Circle</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-014EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>Put 3 Fairy tokens into your EX area.</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Spell|Forestcraft - Pixie</type>
+				<maintype>Spell</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Woodland Refuge</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-015EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>(F) Select a Pixie follower on your field and give it +1.
+(tap) (1), (A): Return this card to its owner’s hand.</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Amulet|Forestcraft - Fae-Touched</type>
+				<maintype>Amulet</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Sylvan Justice</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-016EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>[Quick]
+Select an enemy follower on the field. Deal it 3 damage and put a Fairy token into your EX area.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Spell|Forestcraft - Elf</type>
+				<maintype>Spell</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Goblin</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-017EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>(E) (4): Evolve this follower.</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Follower|Neutral</type>
+				<pt>2/2</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Goblin (Evolved)</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-018EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<prop>
+				<type>Follower|Evolve|Neutral</type>
+				<pt>4/4</pt>
+				<maintype>Follower|Evolve</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Angelic Snipe</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-019EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>[Quick]
+Select an enemy follower on the field and deal it 2 damage.
+			</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Spell|Neutral</type>
+				<maintype>Spell</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Angelic Barrage</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-020EN.png">SD01</set>
+			<tablerow>2</tablerow>
+			<text>[Quick]
+Select an enemy follower on the field and deal it 2 damage.
+			</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Spell|Neutral</type>
+				<maintype>Spell</maintype>
+			</prop>
+		</card>
+		<!-- SD01 Leaders -->
+		<card>
+			<name>Arisa</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-LD01EN.png">SD01</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Forestcraft</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+		<!-- SD01 Tokens -->
+		<card>
+			<name>Fairy</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-T01EN.png">SD01</set>
+			<tablerow>0</tablerow>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Follower|Token|Forestcraft - Pixie</type>
+				<pt>1/1</pt>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<!-- SD04 Main -->
+		<card>
+			<name>Fafnir</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-001EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>(F) Deal 5 damage to each enemy follower on the field.</text>
+			<prop>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<type>Follower|Dragoncraft - Wyrmkin</type>
+				<pt>7/8</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Dragon Oracle</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-002EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>Choose one of the following effects. (1) Increase your maximum play points by 1. (2) Draw a card.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Spell|Dragoncraft - Wyrmkin</type>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Dragon Warrior</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-003EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>(E) (1): Evolve this follower.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Dragoncraft - Wyrmkin</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Dragon Warrior (Evolved)</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-004EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>On Evolve: Select an enemy follower on the field and deal it 3 damage.</text>
+			<prop>
+				<type>Follower|Evolve|Dragoncraft - Wyrmkin</type>
+				<pt>4/4</pt>
+				<maintype>Follower|Evolve</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Dragonewt Princess</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-005EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>(F) If Overflow is active for you, select an enemy follower on the field and deal it 4 damage. (Overflow becomes active if your maximum number of play points is at least 7.)</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Dragoncraft - Dragonewt/Princess</type>
+				<pt>2/3</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Dragonguard</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-006EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>Ward. (This follower can be engaged when it’s put onto your field or during your end phase. When followers with Ward are engaged, your opponent can only attack them.)
+(F) If Overflow is active for you, give this follower +2/+2.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Dragoncraft - Dragonheart</type>
+				<pt>4/5</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Fire Lizard</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-007EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>Select an enemy leader or enemy follower on the field and deal it 1 damage.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Dragoncraft - Wyrmkin</type>
+				<pt>3/2</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Dread Dragon</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-008EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>(F) Select an enemy follower on the field and deal it 7 damage.</text>
+			<prop>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<type>Follower|Dragoncraft - Wyrmkin</type>
+				<pt>7/7</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Roc</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-009EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>(E) (0): Evolve this follower.
+Strike: Give this follower +1/+0.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Dragoncraft - Beast</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Roc (Evolved)</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-010EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>Strike: Give this follower +1/+1.</text>
+			<prop>
+				<type>Follower|Evolve|Dragoncraft - Beast</type>
+				<pt>3/3</pt>
+				<maintype>Follower|Evolve</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Glint Dragon</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-011EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>(F) Select an enemy follower on the field and deal it 3 damage.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Dragoncraft - Wyrmkin</type>
+				<pt>5/3</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Dragonrider</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-012EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>(E) (1): Evolve this follower.
+(F) If Overflow is active for you, put a Dragon token into your EX area.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Dragoncraft - Dragonheart</type>
+				<pt>2/2</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Dragonrider (Evolved)</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-013EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>On Evolve: If Overflow is active for you, give this follower +2/+0. (Overflow becomes active if your maximum number of play points is at least 7.)</text>
+			<prop>
+				<type>Follower|Evolve|Dragoncraft - Dragonheart</type>
+				<pt>3/3</pt>
+				<maintype>Follower|Evolve</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Seabrand Dragon</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-014EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>(F) If Overflow is active for you, give this follower Storm. (Followers with Storm can attack enemy followers and leaders on the turn they’re put onto your field.)</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Dragoncraft - Marine</type>
+				<pt>4/4</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Blazing Breath</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-015EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>[Quick]
+Select an enemy follower on the field and deal it 2 damage. If Overflow is active for you, deal 4 damage instead. (Overflow becomes active if your maximum number of play points is at least 7.)
+			</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Spell|Dragoncraft - Wyrmkin</type>
+				<maintype>Spell</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Dragon Wings</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-016EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>Deal 2 damage to each follower on the field. If Overflow is active for you, deal 3 damage instead. (Overflow becomes active if your maximum number of play points is at least 7.)</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Spell|Dragoncraft - Wyrmkin</type>
+				<maintype>Spell</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Goliath</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-017EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>(E) (2): Evolve this follower.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Neutral - Gigant</type>
+				<pt>3/4</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Goliath (Evolved)</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-018EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<prop>
+				<type>Follower|Evolve|Neutral - Gigant</type>
+				<pt>5/6</pt>
+				<maintype>Follower|Evolve</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Angelic Sword Maiden</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-019EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>Ward. (This follower can be engaged when it’s put onto your field or during your end phase. When followers with Ward are engaged, your opponent can only attack them.)</text>
+			<prop>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<type>Follower|Neutral - Angel</type>
+				<pt>4/6</pt>
+				<maintype>Follower</maintype>
+			</prop>
+		</card>
+		<card>
+			<name>Angelic Snipe</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-020EN.png">SD04</set>
+			<tablerow>2</tablerow>
+			<text>[Quick]
+Select an enemy follower on the field and deal it 2 damage.
+			</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Spell|Neutral - Angel</type>
+				<maintype>Spell</maintype>
+			</prop>
+		</card>
+		<!-- SD01 Leaders -->
+		<card>
+			<name>Rowen</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-LD01EN.png">SD04</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Dragoncraft</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+		<!-- SD01 Tokens -->
+		<card>
+			<name>Dragon</name>
+			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-T01EN.png">SD04</set>
+			<tablerow>0</tablerow>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Token|Dragoncraft - Wyrmkin</type>
+				<pt>5/5</pt>
+				<maintype>Follower|Token</maintype>
+			</prop>
+		</card>
+		<!-- Random Early Stuff-->
+		<card>
+			<name>Sakamata Chloe</name>
+			<set picURL="https://images.shadowcard.io/images/cards/BP06-LDS02.jpg">BP06</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Dragon</type>
+				<maintype>Leader</maintype>
+			</prop>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
