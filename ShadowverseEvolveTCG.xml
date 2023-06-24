@@ -437,7 +437,7 @@ Select an enemy follower on the field. It cannot deal damage this turn.</text>
 			</prop>
 		</card>
 		<card>
-			<name>Rowen</name>
+			<name>Rowen </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-LD07EN.png">BP01</set>
 			<tablerow>1</tablerow>
 			<prop>
@@ -1044,9 +1044,9 @@ Select an enemy follower on the field and deal it 2 damage.
 			<tablerow>2</tablerow>
 			<text>On Evolve: Summon a Steelclad Knight and Knight token.</text>
 			<prop>
-				<type>Follower|Swordcraft - Officer</type>
+				<type>Follower|Evolve|Swordcraft - Officer</type>
 				<pt>4/4</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 			</prop>
 		</card>
 		<card>
@@ -1178,7 +1178,7 @@ Select a follower on your field. Give it +1/+1 and draw a card.</text>
 			</prop>
 		</card>
 		<card>
-			<name>Onslaught</name>
+			<name>Onslaught </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-015EN.png">SD02</set>
 			<tablerow>2</tablerow>
 			<text>Select an enemy follower on the field. Deal it 5 damage and put a Knight token into your EX area.</text>
@@ -1338,7 +1338,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 			</prop>
 		</card>
 		<card>
-			<name>Insight</name>
+			<name>Insight </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-005EN.png">SD03</set>
 			<tablerow>2</tablerow>
 			<text>[Quick]
@@ -1466,7 +1466,7 @@ Select an enemy follower on the field and destroy it. Spellchain (10): Deal 3 da
 			</prop>
 		</card>
 		<card>
-			<name>Magic Missile</name>
+			<name>Magic Missile </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD03/SD03-015EN.png">SD03</set>
 			<tablerow>2</tablerow>
 			<text>[Quick]
@@ -1581,7 +1581,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 		</card>
 		<!-- SD04 Main -->
 		<card>
-			<name>Fafnir</name>
+			<name>Fafnir </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-001EN.png">SD04</set>
 			<tablerow>2</tablerow>
 			<text>(F) Deal 5 damage to each enemy follower on the field.</text>
@@ -1836,7 +1836,7 @@ Select an enemy follower on the field and deal it 2 damage.
 		</card>
 		<!-- SD04 Leaders -->
 		<card>
-			<name>Rowen</name>
+			<name>Rowen </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD04/SD04-LD01EN.png">SD04</set>
 			<tablerow>1</tablerow>
 			<prop>
@@ -2200,9 +2200,9 @@ Whenever an amulet leaves your field, deal 2 damage to each enemy leader and ene
 			<tablerow>2</tablerow>
 			<text>On Evolve: Select an enemy follower with 3 defense or less on the field and banish it.</text>
 			<prop>
-				<type>Follower|Havencraft - Faith</type>
+				<type>Follower|Evolve|Havencraft - Faith</type>
 				<pt>4/4</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 			</prop>
 		</card>
 		<card>
