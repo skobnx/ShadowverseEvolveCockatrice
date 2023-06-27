@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Isabelle "/>
+        <card number="3" name="Sammy, Wizard's Apprentice (Evolved) "/>
+        <card number="3" name="Demonflame Mage (Evolved) "/>
+        <card number="1" name="Healing Angel (Evolved) "/>
+        <card number="3" name="Penguin Wizard (Evolved) "/>
+    </zone>
+    <zone name="main">
+        <card number="3" name="Insight "/>
+        <card number="3" name="Magic Missile "/>
+        <card number="2" name="Angelic Barrage "/>
+        <card number="1" name="Angelic Snipe "/>
+        <card number="3" name="Conjure Golem "/>
+        <card number="3" name="Demonflame Mage "/>
+        <card number="2" name="Fiery Embrace "/>
+        <card number="3" name="Fire Chain "/>
+        <card number="2" name="Healing Angel "/>
+        <card number="2" name="Lightning Shooter "/>
+        <card number="3" name="Mythril Golem "/>
+        <card number="3" name="Penguin Wizard "/>
+        <card number="3" name="Rune Blade Summoner "/>
+        <card number="3" name="Sammy, Wizard's Apprentice "/>
+        <card number="2" name="Sorcery Cache "/>
+        <card number="2" name="Wind Blast "/>
+    </zone>
+</cockatrice_deck>

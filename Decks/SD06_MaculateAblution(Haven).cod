@@ -2,29 +2,29 @@
 <cockatrice_deck version="1">
     <deckname></deckname>
     <comments></comments>
-    <zone name="side">
-        <card number="3" name="Ardent Nun (Evolved)"/>
-        <card number="3" name="Guardian Nun (Evolved)"/>
-        <card number="1" name="Healing Angel (Evolved)"/>
-        <card number="1" name="Eris"/>
-        <card number="3" name="Priest of the Cudgel (Evolve)"/>
-    </zone>
     <zone name="main">
-        <card number="3" name="Skullfane"/>
-        <card number="3" name="Hare of Illusions"/>
-        <card number="3" name="Priest of the Cudgel"/>
-        <card number="3" name="Acolyte’s Light"/>
-        <card number="3" name="Dual Flames"/>
-        <card number="2" name="Cruel Priestess"/>
-        <card number="2" name="Snake Priestess"/>
-        <card number="3" name="Ardent Nun"/>
-        <card number="3" name="Guardian Nun"/>
-        <card number="2" name="Hallowed Dogma"/>
-        <card number="2" name="Death Sentence"/>
-        <card number="3" name="Pinion Prayer"/>
-        <card number="3" name="Beastly Vow"/>
-        <card number="2" name="Healing Angel"/>
-        <card number="2" name="Angelic Snipe"/>
-        <card number="1" name="Angelic Sword Maiden"/>
+        <card number="3" name="Acolyte's Light "/>
+        <card number="2" name="Angelic Snipe "/>
+        <card number="1" name="Angelic Sword Maiden "/>
+        <card number="3" name="Ardent Nun "/>
+        <card number="3" name="Beastly Vow "/>
+        <card number="2" name="Cruel Priestess "/>
+        <card number="2" name="Death Sentence "/>
+        <card number="3" name="Dual Flames "/>
+        <card number="3" name="Guardian Nun "/>
+        <card number="2" name="Hallowed Dogma "/>
+        <card number="3" name="Hare of Illusions "/>
+        <card number="2" name="Healing Angel "/>
+        <card number="3" name="Pinion Prayer "/>
+        <card number="3" name="Priest of the Cudgel "/>
+        <card number="3" name="Skullfane "/>
+        <card number="2" name="Snake Priestess "/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Eris "/>
+        <card number="3" name="Ardent Nun (Evolved) "/>
+        <card number="3" name="Guardian Nun (Evolved) "/>
+        <card number="1" name="Healing Angel (Evolved) "/>
+        <card number="3" name="Priest of the Cudgel (Evolve) "/>
     </zone>
 </cockatrice_deck>
