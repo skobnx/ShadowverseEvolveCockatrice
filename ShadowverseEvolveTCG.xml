@@ -217,13 +217,13 @@ When this card is returned to hand from your field, select an enemy follower on 
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-014EN.png">BP01</set>
 			<tablerow>2</tablerow>
 			<text>Ward.
-(F) Combo (3): Select an enemy follower on the field. Destroy it and summon a Fairy token on that follower’s field.</text>
+(F) Combo (3): Select an enemy follower on the field. Destroy it and summon a Fairy token on that follower's field.</text>
 			<prop>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
 				<type>Follower|Forestcraft - Pixie/Princess</type>
 				<pt>3/3</pt>
-				<maintype>Forestcraft</maintype>
+				<maintype>Follower</maintype>
 			</prop>
 		</card>
 		<card>
@@ -247,8 +247,8 @@ When this card leaves your field, draw a card.</text>
 			<prop>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
-				<type>Spell|Forestcraft - Elf</type>
-				<maintype>Spell</maintype>
+				<type>Amulet|Forestcraft - Elf</type>
+				<maintype>Amulet</maintype>
 			</prop>
 		</card>
 		<card>
@@ -713,7 +713,7 @@ Select a follower on your field. Give it +1/+1 and draw a card.</text>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
 				<type>Follower|Runecraft - Mage</type>
-				<pt>3/3</pt>
+				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 			</prop>
 		</card>
@@ -2659,6 +2659,7 @@ At the start of your end phase, banish this card.</text>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
 				<type>Follower|Token|Abysscraft - Departed</type>
+				<pt>1/1</pt>
 				<maintype>Follower|Token</maintype>
 			</prop>
 		</card>
@@ -2899,7 +2900,7 @@ This follower ignores Ward.</text>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-015EN.png">SD01</set>
 			<tablerow>2</tablerow>
 			<text>(F) Select a Pixie follower on your field and give it +1/+0.
-(tap) (1), (A): Return this card to its owner’s hand.</text>
+(tap) (1), (A): Return this card to its owner's hand.</text>
 			<prop>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
@@ -2928,7 +2929,7 @@ Select an enemy follower on the field. Deal it 3 damage and put a Fairy token in
 			<prop>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
-				<type>Follower|Neutral</type>
+				<type>Follower|Neutral - Goblinoid</type>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 			</prop>
@@ -2938,7 +2939,7 @@ Select an enemy follower on the field. Deal it 3 damage and put a Fairy token in
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD01/SD01-018EN.png">SD01</set>
 			<tablerow>2</tablerow>
 			<prop>
-				<type>Follower|Evolve|Neutral</type>
+				<type>Follower|Evolve|Neutral - Goblinoid</type>
 				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 			</prop>
@@ -3206,7 +3207,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 			<prop>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
-				<type>Follower|Neutral</type>
+				<type>Follower|Neutral - Goblinoid</type>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 			</prop>
@@ -3216,7 +3217,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD02/SD02-018EN.png">SD02</set>
 			<tablerow>2</tablerow>
 			<prop>
-				<type>Follower|Evolve|Neutral</type>
+				<type>Follower|Evolve|Neutral - Goblinoid</type>
 				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 			</prop>
@@ -4303,7 +4304,7 @@ Ward.
 On Evolve: Give your leader +2 defense.</text>
 			<prop>
 				<type>Follower|Evolve|Havencraft - Faith</type>
-				<pt></pt>
+				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 			</prop>
 		</card>
