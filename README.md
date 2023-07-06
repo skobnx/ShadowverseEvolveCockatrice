@@ -1,24 +1,57 @@
-# ShadowverseEvolveCockatrice
+
+<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126646851806973963/101441020.jpg
+" width="1000">
+
+# Shadowverse Evolve Cockatrice
 
 Welcome to the guide on how to import a custom set XML file to Cockatrice. This guide will help you seamlessly integrate the Shadowverse Evolve game into your Cockatrice program. Please follow the step-by-step instructions below:
 
 **Disclaimer:** Please note that we do not own any rights to the Shadowverse franchise. This package is a compilation of publicly available information and is intended solely for personal enjoyment without any profit motive.
 
-1. Make sure you have [Cockatrice](https://cockatrice.github.io/) installed on your computer (Windows, Mac, Linux, etc). If not, download and install Cockatrice from the provided link.
+# Prerequisite
+- Make sure you have [Cockatrice](https://cockatrice.github.io/) installed on your computer (Windows, Mac, Linux, etc). If not, download and install Cockatrice from the provided link.
 
-2. Open the Cockatrice program. If a prompt appears indicating that it will run Oracle, allow it to do so.
+# Download
+1. This GitHub webpage contains the Shadowverse Evolve cockatrice plugin. Download it by selecting on the green **<> Code** and "Download ZIP".  
 
-3. Open this GitHub webpage that contains the Shadowverse Evolve plugin. Look for the "ShadowverseEvolveTCG.xml" file in the list of files.
+2. Unzip the zipped folder and look for the "ShadowverseEvolveTCG.xml" file in the list of files. Remember where you store it for the next few steps. 
 
-4. Select on the green **<> Code** and "Download ZIP".  
+3. Open the Cockatrice program. If a prompt appears indicating that it will run Oracle, allow it to do so.
 
-5. In Cockatrice, navigate to "Card Database" and select "Manage Sets". From the dropdown menu, choose "Open custom sets folder".
+4. In Cockatrice, navigate to "Card Database" and select "Manage Sets". From the dropdown menu, choose "Open custom sets folder".
 
-6. Locate the "Shadowverse Evolve.xml" file you downloaded from the GitHub page. Move this file into the folder that opened in the previous step.
+5. Locate the "Shadowverse Evolve.xml" file you downloaded from the GitHub page. Move this file into the folder that opened in the previous step.
 
-7. Close Cockatrice completely, and then reopen it. You will see a prompt indicating that new sets are being added. It will ask if you want to enable them. Click "Yes" to enable the Shadowverse Evolve sets.
+6. Close Cockatrice completely, and then reopen it. You will see a prompt indicating that new sets are being added. It will ask if you want to enable them. Click "Yes" to enable the Shadowverse Evolve sets.
 
 Congratulations! Shadowverse Evolve is now fully integrated into your Cockatrice program. Enjoy playing the game to the fullest!
+
+# Optional Steps
+These steps are completely optional, but doing so improve your overall experience with the program. 
+
+**Dark Mode**
+Cockatrice's default is white mode. Of course, no one wants to blind their eyes while playing Shadowverse. This [dark mode](https://github.com/mingomongo/DarkMingo-Theme-for-Cockatrice) extension will change Cockatrice to be dark mode. 
+
+**Removing Magic the Gathering Cards**
+If you are only using Cockatrice for Shadowverse Evolve, it is recommended to remove/disable the Magic the Gathering cards to making finding Shadowverse cards easier. However, this is one of two ways to filter for Shadowverse cards. If you encounter any technical errors while doing this or seems too hard, there is a second method to filter for Shadowverse cards that is much more user friendly that will be explained in the Helpful Tips section.
+
+1. In Cockatrice, head to Card Database -> Manage Sets. You should see a bunch of sets for Magic: the Gathering listed.
+
+2. Click "Disable all sets", then click a checkbox on exactly one Magic: the Gathering set in the set list to re-enable it. Make a note of what you enabled here.
+
+2. Close the "Manage Sets" window.
+
+3. Go back into Card Database, then "Open custom sets folder."
+
+4. In the same window, click the "Cockatrice" that is directly to the left of "customsets" in the address bar.
+
+5. Delete cards.xml
+
+6. Go to Card Database -> Manage Sets. Find the set you re-enabled in step 2 and disable it again. Close the window.
+
+
+# Helpful Tips
+
 
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126354128101199913/mid_game.png" width="1000">
 
