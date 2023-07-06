@@ -8,9 +8,9 @@ Welcome to the guide on how to import a custom set XML file to Cockatrice. This 
 
 2. Open the Cockatrice program. If a prompt appears indicating that it will run Oracle, allow it to do so.
 
-3. Open this GitHub webpage that contains the Shadowverse Evolve plugin. Look for the "Shadowverse.xml" file in the list of files.
+3. Open this GitHub webpage that contains the Shadowverse Evolve plugin. Look for the "ShadowverseEvolveTCG.xml" file in the list of files.
 
-4. Right-click the "Shadowverse.xml" file and select "Save Link As...". Save the file to a location where you can easily access it later.
+4. Right-click the "ShadowverseEvolveTCG.xml" file and select "Save Link As...". Save the file to a location where you can easily access it later.
 
 5. In Cockatrice, navigate to "Card Database" and select "Manage Sets". From the dropdown menu, choose "Open custom sets folder".
 
