@@ -19,3 +19,7 @@ Welcome to the guide on how to import a custom set XML file to Cockatrice. This 
 7. Close Cockatrice completely, and then reopen it. You will see a prompt indicating that new sets are being added. It will ask if you want to enable them. Click "Yes" to enable the Shadowverse Evolve sets.
 
 Congratulations! Shadowverse Evolve is now fully integrated into your Cockatrice program. Enjoy playing the game to the fullest!
+
+![Forte Face](https://cdn.discordapp.com/attachments/480908885956362242/1126354128101199913/mid_game.png | width=200)
+
+![Lucifer vs Aria](https://cdn.discordapp.com/attachments/480908885956362242/1126353629889171476/late_game.png | width=200)
