@@ -1,33 +1,21 @@
 # ShadowverseEvolveCockatrice
 
-Welcome, and thank you for downloading this package for Shadowverse Evolve. This download contains everything you need to add this game to your Cockatrice program, along with some extra files to help newer players ease themselves into this amazing game.
+Welcome to the guide on how to import a custom set XML file to Cockatrice. This guide will help you seamlessly integrate the Shadowverse Evolve game into your Cockatrice program. Please follow the step-by-step instructions below:
 
-First, a disclaimer:
+**Disclaimer:** Please note that we do not own any rights to the Shadowverse franchise. This package is a compilation of publicly available information and is intended solely for personal enjoyment without any profit motive.
 
-We do not own anything related to the Shadowverse franchise, including its anime series, trading card game, and any other form of product or service. This is a package containing information that is readily available through multiple public sources on the internet. Everything included here is done without profit and solely to help bring personal enjoyment to playing Shadowverse Evolve.
+1. Make sure you have [Cockatrice](https://cockatrice.github.io/) installed on your Windows computer. If not, download and install Cockatrice from the provided link.
 
-Directions for the first time install [Cockatrice](https://cockatrice.github.io/):
+2. Open the Cockatrice program. If a prompt appears indicating that it will run Oracle, allow it to do so.
 
-Instructions are Windows-only.
+3. Open this GitHub webpage that contains the Shadowverse Evolve plugin. Look for the "Shadowverse.xml" file in the list of files.
 
-1. Install Cockatrice (link above)
+4. Right-click the "Shadowverse.xml" file and select "Save Link As...". Save the file to a location where you can easily access it later.
 
-2. Open Cockatrice.  If the program tells you it's going to run Oracle, let it do so.
+5. In Cockatrice, navigate to "Card Database" and select "Manage Sets". From the dropdown menu, choose "Open custom sets folder".
 
-3. In this GitHub webpage that contains the Shadowverse Evolve plugin, click the "Shadowverse.xml" file in the file list.
+6. Locate the "Shadowverse Evolve.xml" file you downloaded from the GitHub page. Move this file into the folder that opened in the previous step.
 
-4. Right click the "Download" button, then select "Save Link As..." and save it to anywhere you can easily access later.
+7. Close Cockatrice completely, and then reopen it. You will see a prompt indicating that new sets are being added. It will ask if you want to enable them. Click "Yes" to enable the Shadowverse Evolve sets.
 
-5. Open Start Menu, type "Folder Options", then open the "File Explorer Options" program that appears.
-
-6. Click the "View" tab, then under the "Hidden files and folders" section, select "Show hidden files, folders, and drives."
-   
-7. Close File Explorer Options.
-
-8. In Cockatrice, head to Card Database -> Manage Sets -> "Open custom sets folder."
-
-9. Move the Shadowverse Evolve.xml file you downloaded from this GitHub page into this folder.
-
-10. Close Cockatrice, then reopen it. It will show a new prompt showing a bunch of sets being added and is asking if you want to enable them or not. Click yes to that.
-
-11. Shadowverse Evolve is fully added to Cockatrice. Enjoy! 
+Congratulations! Shadowverse Evolve is now fully integrated into your Cockatrice program. Enjoy playing the game to the fullest!
