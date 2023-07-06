@@ -1,5 +1,5 @@
 
-<img src = "https://imgur.com/eWuWoF2" width="1000">
+<img src = "https://imgur.com/eWuWoF2.jpg" width="1000">
 
 # Shadowverse Evolve Cockatrice
 
