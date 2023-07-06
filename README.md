@@ -1,6 +1,6 @@
 
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126646851806973963/101441020.jpg
-" width="1000">
+">
 
 # Shadowverse Evolve Cockatrice
 
