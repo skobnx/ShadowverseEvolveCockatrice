@@ -1,5 +1,5 @@
 <h1 align = "center">
-    <a href="https://github.com/skobnx/ShadowverseEvolveCockatrice/raw/main/ShadowverseEvolveTCG.xml"><img src = "https://imgur.com/eWuWoF2.jpg" width="1000">
+    <a href = "https://github.com/skobnx/ShadowverseEvolveCockatrice/raw/main/ShadowverseEvolveTCG.xml" download><img src = "https://imgur.com/eWuWoF2.jpg" width="1000">
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@ Welcome to the guide on how to import a custom set XML file to Cockatrice. This 
 ## Download
 **Prerequisite:** Make sure you have [Cockatrice](https://cockatrice.github.io/) installed on your computer (Windows, Mac, Linux, etc). If not, download and install Cockatrice from the provided link.
 
-1. [Download](https://github.com/skobnx/ShadowverseEvolveCockatrice/raw/main/ShadowverseEvolveTCG.xml) the latest ShadowverseEvolveTCG.xml file by clicking the download link or the Forte banner.  
+1. [Download](https://github.com/skobnx/ShadowverseEvolveCockatrice/archive/refs/heads/main.zip) the latest ShadowverseEvolveTCG.xml file by clicking the download link or the Forte banner.  
 
 2. Unzip the zipped folder and look for the "ShadowverseEvolveTCG.xml" file in the list of files. Remember where you store the xml file for the next few steps. 
 
@@ -38,7 +38,7 @@ Congratulations! Shadowverse Evolve is now fully integrated into your Cockatrice
 
 ## Updating
 
-1. When a new set of cards is out, redownload the xml file.
+1. When the xml is updated, redownload the xml file.
 
 2. Repeat steps 1-6 to replace the old xml file in the "custom sets folder". 
 
@@ -54,7 +54,7 @@ These steps are completely optional, but doing so improve your overall experienc
 ## How to Use
 <h3> Finding Shadowverse Evolve Cards </h3>
 
-When you open Cockatrice, there are will be Shadowverse Evolve and Magic: the Gathering cards into the lists of cards. Go to filters sections and click on the dropdown. Select "Format" and type **Shadowverse** or **SV** to filter for only Shadowverse Evolve cards.
+When you open Cockatrice, there will be Shadowverse Evolve and Magic: the Gathering cards in the lists of cards. Go to the filters sections and click on the dropdown. Select "Format" and type **Shadowverse** or **SV** to filter for only Shadowverse Evolve cards.
 
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126713575440916601/card-search.png">
 
@@ -79,8 +79,8 @@ Your deck should look like this:
 
 <h3> Playing the Game </h3>
 
-- Right-click "Sideboard" to open your Evolve deck and put down your leader.
-- Right-click "Roll the die" to see who goes first. 
+- Right-click on "Sideboard" to open your Evolve deck and put down your leader.
+- Right-click on "Roll the die" to see who goes first. 
 - Notice the seven circles on the side. The player who goes second can left-click on one of the circles to mark down three evolution points. 
 - Draw four cards by double clicking the deck. You can perform mulligans by highlighting every card, right clicking "Bottom to the deck in random order", and drawing four new cards. 
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126729079429800067/Mulligan.gif"> 
@@ -113,7 +113,7 @@ Common ones include:
 - Ctrl+S: Shuffle deck
 - Ctrl+T: Creating a token
 
-There's more than this, but knowing these should be enough to let your play speed and comfiness go way up.  If you want to know more shortcuts, right clicking on various areas and objects will show a menu of actions you can do, some showing their shortcut and others not having any.
+There's more than this, but knowing these should be enough to let your play speed and comfiness go way up.  If you want to know more shortcuts, right clicking on various areas and objects will show a menu of actions you can do.
 
 <h3> Trial Decks </h3>
 
