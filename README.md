@@ -90,7 +90,7 @@ Your deck should look like this:
 - An useful feature is that you can hold right-click on a card to drag an arrow towards another card or target your opponent. Use this for target abilities or attacking. Right click on the arrow to remove it
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126745558086852638/arrow.png">
 
-- The rest of cockatrice is straightforward. Double-click your followers to tap, left-click your life to decrease, right-click your life to increase, and right-click "Set power and toughness" to change the stats after battling
+- The rest of cockatrice is straightforward. Double-click your followers to tap, left-click your life to decrease, right-click your life to increase, and right-click "Set power and toughness" to change the stats after battling.
 
 ## Helpful Tips
 
