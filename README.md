@@ -81,6 +81,7 @@ Your deck should look like this:
 - Right-click "Roll the die" to see who goes first. 
 - Draw four cards by double clicking the deck. You can perform mulligans by highlighting every card, right clicking "Bottom to the deck in random order", and drawing four new cards. 
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126729079429800067/Mulligan.gif"> 
+
 - Now this is where the Land cards become helpful to keep track of play points. As you start your turn, right-click "Clone" on the Land card to make a copy. Tap the Land cards to spend play points. If you play Magic: the Gathering or Force of Will, this may seem similar as it is how they keep track of their play points. 
 - On the top left, there is an "Untap" button which lets you untap all the cards on the field. 
 
