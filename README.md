@@ -1,9 +1,9 @@
 <h1 align = "center">
-    <a href = "https://github.com/skobnx/ShadowverseEvolveCockatrice/archive/refs/heads/main.zip"><img src = "https://starfruitcarambola.github.io/ShadowverseEvolveImageRepo/ForteBanner.jpg" width="1000"></a>
+    <a href = "https://github.com/skobnx/ShadowverseEvolveCockatrice/archive/refs/heads/main.zip"><img src = "https://starfruitcarambola.github.io/ShadowverseEvolveImageRepo/ForteBanner.jpg" width="1000">
 </h1>
 
 <p align="center">
-  <a href="#Shadowverse-Evolve-Cockatrice">*Shadowverse Evolve* Cockatrice</a> •
+  <a href="#Shadowverse-Evolve-Cockatrice">Shadowverse Evolve Cockatrice</a> •
   <a href="#Download">Download</a> •
   <a href="#Updating">Updating</a> •
   <a href="#Optional-Steps">Optional Steps</a> •
