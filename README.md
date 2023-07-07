@@ -90,24 +90,41 @@ Your deck should look like this:
 - An useful feature is that you can hold right-click on a card to drag an arrow towards another card or target your opponent. Use this for target abilities or attacking. Right click on the arrow to remove it
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126745558086852638/arrow.png">
 
+- There are a lot of tokens in Evolve. Thus, the best way to use tokens is to put one copy in your evolve deck, place it on the field, and clone it when you need multiples. Alternatively, you can right-click "Create token" and type the token you need.
+<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126869111746609302/Tokens.gif"> 
+
 - The rest of cockatrice is straightforward. Double-click your followers to tap, left-click your life to decrease, right-click your life to increase, and right-click "Set power and toughness" to change the stats after battling.
 
 ## Helpful Tips
 
+<h3> Keyboard Shortcuts </h3>
+
 Cockatrice has built-in keyboard shortcuts you can press to heighten your play experience with the program.
 Common ones include: 
+- Ctrl+F3: View sideboard (for accessing your Evolve Deck) 
 - Ctrl+D: Draw 1 card from deck
 - Ctrl+E: Draw any number of cards from deck
-- Ctrl+S: Shuffle deck
-- Ctrl+F3: View sideboard (for accessing your Evolve Deck)
-- Ctrl+W: Look at any number of cards on the top of your deck
+- Ctrl+J: Clone a card
 - Ctrl+P: Setting power and toughness
+- Ctrl+S: Shuffle deck
+- Ctrl+T: Creating a token
 
 There's more than this, but knowing these should be enough to let your play speed and comfiness go way up.  If you want to know more shortcuts, right clicking on various areas and objects will show a menu of actions you can do, some showing their shortcut and others not having any.
 
-Playing manually does give many perks, especially when learning the game. Developing good card movement habits, memorizing turn/phase order, and needing to socially interact with your opponent are but a few advantages that manual sims offer that automated ones do not nearly as easily.
+<h3> Starter Decks </h3>
+
+Want to play with the starter decks before constructing a deck? No problem, we have the starter decks already created. In the zipped folder you downloaded, there is a Decks folder. 
+
+1. Click the Decks folder and copy all the decks you want.
+2. Open Cockatrice, click on Deck Editor, and select Load Deck.
+3. A pop up will appear. In here, paste the decks you copied. 
+4. Select the starter deck you want to use.    
 
 ## Questions & Answers
+
+<h3>There is a lot of manual input, where is the automatic simulator</h3>
+
+Playing manually does give many perks, especially when learning the game. Developing good card movement habits, memorizing turn/phase order, and needing to socially interact with your opponent are but a few advantages that manual sims offer that automated ones do not nearly as easily.
 
 <h3>How often does the plugin update?</h3>
 
