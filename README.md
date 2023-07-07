@@ -46,6 +46,7 @@ Congratulations! Shadowverse Evolve is now fully integrated into your Cockatrice
 These steps are completely optional, but doing so improve your overall experience with the program. 
 
 <h3> Dark Mode </h3>
+
 Cockatrice's default is white mode. Of course, no one wants to blind their eyes while playing Shadowverse. This [dark mode](https://github.com/mingomongo/DarkMingo-Theme-for-Cockatrice) extension will change Cockatrice to be dark mode. 
 
 ## How to Use
