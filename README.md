@@ -1,5 +1,5 @@
 <h1 align = "center">
-    <a href = "https://github.com/skobnx/ShadowverseEvolveCockatrice/raw/main/ShadowverseEvolveTCG.xml" download><img src = "https://imgur.com/eWuWoF2.jpg" width="1000">
+    <a href = "https://github.com/skobnx/ShadowverseEvolveCockatrice/raw/main/ShadowverseEvolveTCG.xml?dummy=dummy" download><img src = "https://imgur.com/eWuWoF2.jpg" width="1000">
 </h1>
 
 <p align="center">
@@ -113,7 +113,7 @@ Common ones include:
 - Ctrl+S: Shuffle deck
 - Ctrl+T: Creating a token
 
-There's more than this, but knowing these should be enough to let your play speed and comfiness go way up.  If you want to know more shortcuts, right clicking on various areas and objects will show a menu of actions you can do.
+If you want to know more shortcuts, right clicking on various areas and objects will show a menu of actions you can do.
 
 <h3> Trial Decks </h3>
 
