@@ -54,7 +54,7 @@ Cockatrice's default is white mode. Of course, no one wants to blind their eyes 
 
 When you open Cockatrice, there are will be Shadowverse Evolve and Magic: the Gathering cards into the lists of cards. No worries, we have that secured. On filters sections, click on the dropdown and select "Format". Type **Shadowverse** or **SV** to filter for only Shadowverse Evolve cards.
 
-<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126713575440916601/card-search.png" height="1000">
+<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126713575440916601/card-search.png">
 
 <h3> Making a Deck </h3>
 
@@ -63,7 +63,7 @@ When you open Cockatrice, there are will be Shadowverse Evolve and Magic: the Ga
 - It is recommended to add one Land card in the evolve deck to help keep track of used and unused mana. Of course, it is not required and completely optional. 
 
 Your deck should look like this: 
-<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126711058233561108/forestcraft-deck.png" height="1000">
+<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126711058233561108/forestcraft-deck.png">
 
 ## Helpful Tips
 - Yep, Cockatrice has built-in keyboard shortcuts you can press to heighten your play experience with the program.  Common ones include (for Windows users): 
