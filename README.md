@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="#Shadowverse">Shadowverse Evolve Cockatrice</a> •
+  <a href="#Shadowverse-Evolve-Cockatrice">Shadowverse Evolve Cockatrice</a> •
   <a href="#Download">Download</a> •
   <a href="#Updating">Updating</a> •
-  <a href="#Optional">Optional Steps</a> •
-  <a href="#Helpful">Helpful Tips</a>
+  <a href="#Optional-Steps">Optional Steps</a> •
+  <a href="#Helpful-Tips">Helpful Tips</a>
 </p>
 
 ---
