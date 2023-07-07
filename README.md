@@ -7,6 +7,7 @@
   <a href="#Download">Download</a> •
   <a href="#Updating">Updating</a> •
   <a href="#Optional-Steps">Optional Steps</a> •
+  <a href="#How-to-Use">How to Use</a> •
   <a href="#Helpful-Tips">Helpful Tips</a>
 </p>
 
@@ -36,35 +37,82 @@ Welcome to the guide on how to import a custom set XML file to Cockatrice. This 
 Congratulations! Shadowverse Evolve is now fully integrated into your Cockatrice program. Enjoy playing the game to the fullest!
 
 ## Updating
-When a new set of cards is out, you have redownload the xml file and repeat steps 1-5 to replace the old xml file in the "custom sets folder". 
+
+1. When a new set of cards is out, redownload the xml file.
+
+2. Repeat steps 1-6 to replace the old xml file in the "custom sets folder". 
 
 ## Optional Steps
 These steps are completely optional, but doing so improve your overall experience with the program. 
 
-**Dark Mode**
+<h3> Dark Mode </h3>
+
 Cockatrice's default is white mode. Of course, no one wants to blind their eyes while playing Shadowverse. This [dark mode](https://github.com/mingomongo/DarkMingo-Theme-for-Cockatrice) extension will change Cockatrice to be dark mode. 
 
-**Removing Magic the Gathering Cards**
-If you are only using Cockatrice for Shadowverse Evolve, it is recommended to remove/disable the Magic the Gathering cards to making finding Shadowverse cards easier. However, this is one of two ways to filter for Shadowverse cards. If you encounter any technical errors while doing this or seems too hard, there is a second method to filter for Shadowverse cards that is much more user friendly that will be explained in the Helpful Tips section.
+## How to Use
+<h3> Finding Shadowverse Evolve Cards </h3>
 
-1. In Cockatrice, head to Card Database -> Manage Sets. You should see a bunch of sets for Magic: the Gathering listed.
+When you open Cockatrice, there are will be Shadowverse Evolve and Magic: the Gathering cards into the lists of cards. No worries, we have that secured. On filters sections, click on the dropdown and select "Format". Type **Shadowverse** or **SV** to filter for only Shadowverse Evolve cards.
 
-2. Click "Disable all sets", then click a checkbox on exactly one Magic: the Gathering set in the set list to re-enable it. Make a note of what you enabled here.
+<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126713575440916601/card-search.png">
 
-2. Close the "Manage Sets" window.
+<h3> Making a Deck </h3>
 
-3. Go back into Card Database, then "Open custom sets folder."
+- Cockatrice has two decks, the main deck and side deck. Thus, we will use the main deck for our main deck, and use the the side deck for our evolve deck. 
+- To add cards to your deck, search for the card you want to add, and double click on it. It will automatically add the card to the main deck. To move the card to your evolve deck, double click on the card from the main deck.
+- It is recommended to add one Land card in the evolve deck to help keep track of used and unused play points. Of course, it is not required and completely optional. 
 
-4. In the same window, click the "Cockatrice" that is directly to the left of "customsets" in the address bar.
+Your deck should look like this: 
+<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126711058233561108/forestcraft-deck.png">
 
-5. Delete cards.xml
+<h3> Setting Up </h3>
 
-6. Go to Card Database -> Manage Sets. Find the set you re-enabled in step 2 and disable it again. Close the window.
+- To start playing games on Cockatrice, you will need to an account. 
+    - If you need to register an account, click on "Cockatrice" and "Register to server". Enter a player name, password, email, and click OK. Afterward, accept the verification email to verify your account. 
+    - If you already have an account, click on "Cockatrice" and "Connect" to login. 
+-  Once logged in, click on the "Server" tab and select "Other Games" to find other players to play Shadowverse Evolve. 
+    - Because Cockatrice is an MTG-oriented program for online play, you won't be able to find Shadowverse Evolve players with open rooms at all unless you are either 1. extremely lucky, 2. my plugin became famous, or most likely 3. you asked a buddy to play.  #3 is how you'll get matches 99.9% of the time.  
+    - Quickest way to ask for games is to ask for games in the [Shadowverse Evolve](https://discord.gg/shadowverse-evolve-tcg-community-928746294384677004) server or other social media platforms.
+- Once you enter the room, click "Load deck" on the top left corner to select the deck you want to use and "Ready to start".
 
+<h3> Playing the Game </h3>
+
+- Right-click "Sideboard" to open your Evolve deck and put down your leader.
+- Right-click "Roll the die" to see who goes first. 
+- Notice the seven circles on the side. The player who goes second can left-click on one of the circles to mark down three evolution points. 
+- Draw four cards by double clicking the deck. You can perform mulligans by highlighting every card, right clicking "Bottom to the deck in random order", and drawing four new cards. 
+<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126729079429800067/Mulligan.gif"> 
+
+- Now this is where the Land cards become helpful to keep track of play points. As you start your turn, right-click "Clone" on the Land card to make a copy. Tap the Land cards to spend play points. If you play Magic: the Gathering or Force of Will, this may seem similar as it is how they keep track of their play points. 
+- On the top left, there is an "Untap" button which lets you untap all the cards on the field. It is an easy way to untap all your followers and refresh your play points. 
+<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126736211973783592/Lands.gif">
+
+- An useful feature is that you can hold right-click on a card to drag an arrow towards another card or target your opponent. Use this for target abilities or attacking. Right click on the arrow to remove it
+<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126745558086852638/arrow.png">
+
+- The rest of cockatrice is straightforward. Double-click your followers to tap, left-click your life to decrease, right-click your life to increase, and right-click "Set power and toughness" to change the stats after battling
 
 ## Helpful Tips
 
+Cockatrice has built-in keyboard shortcuts you can press to heighten your play experience with the program.
+Common ones include: 
+- Ctrl+D: Draw 1 card from deck
+- Ctrl+E: Draw any number of cards from deck
+- Ctrl+S: Shuffle deck
+- Ctrl+F3: View sideboard (for accessing your Evolve Deck)
+- Ctrl+W: Look at any number of cards on the top of your deck
+- Ctrl+P: Setting power and toughness
 
-<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126354128101199913/mid_game.png" width="1000">
+There's more than this, but knowing these should be enough to let your play speed and comfiness go way up.  If you want to know more shortcuts, right clicking on various areas and objects will show a menu of actions you can do, some showing their shortcut and others not having any.
 
-<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126353629889171476/late_game.png" width="1000">
+Playing manually does give many perks, especially when learning the game. Developing good card movement habits, memorizing turn/phase order, and needing to socially interact with your opponent are but a few advantages that manual sims offer that automated ones do not nearly as easily.
+
+## Questions & Answers
+
+<h3>How often does the plugin update?</h3>
+
+We will have the cards updated as quick as we can. Keep in mind that we are inputting the cards in the xml file manually as there is no API for Shadowverse Evolve card database. We continuously maintain and update this plugin, completely free of charge and for the benefit of the community. If/when an update isn't coming as quickly as you want it, please be patient, life happens sometimes. 
+
+<h3>I found an error in a card's text/name/etc in the database, how do I let you know about it?</h3>
+
+Drop an ping to @skonx or @starfruit_ in the [Shadowverse Evolve server]((https://discord.gg/shadowverse-evolve-tcg-community-928746294384677004)) and give a clear explanation of the error. We may not respond, but we do read every ping and all errors we get notified of and acknowledge on out end will be fixed upon the next set update. If you have a more general problem like getting the plugin to install properly in the first place, we will be able to assist as well.

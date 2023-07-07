@@ -51,6 +51,7 @@
 				<pt>7/7</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -68,6 +69,7 @@ Ward.
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -84,6 +86,7 @@ On Evolve, return another card on your field to its owner’s hand: Give this fo
 				<pt>3/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -100,6 +103,7 @@ Rush.
 				<pt>1/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -112,6 +116,7 @@ Rush.
 				<pt>1/1</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -127,6 +132,7 @@ Rush.
 				<pt>4/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -141,6 +147,7 @@ Rush.
 				<type>Spell|Forestcraft - Elf</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -154,6 +161,7 @@ Rush.
 				<type>Spell|Forestcraft - Elf</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -168,6 +176,7 @@ Rush.
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -180,6 +189,7 @@ Rush.
 				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -194,6 +204,7 @@ Rush.
 				<pt>2/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -209,6 +220,7 @@ When this card is returned to hand from your field, select an enemy follower on 
 				<pt>1/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -223,6 +235,7 @@ When this card is returned to hand from your field, select an enemy follower on 
 				<pt>5/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -238,6 +251,7 @@ When this card is returned to hand from your field, select an enemy follower on 
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -251,6 +265,7 @@ When this card is returned to hand from your field, select an enemy follower on 
 				<type>Spell|Forestcraft - Pixie</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -265,6 +280,7 @@ When this card leaves your field, draw a card.</text>
 				<type>Amulet|Forestcraft - Elf</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -279,6 +295,7 @@ When this card leaves your field, draw a card.</text>
 				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -294,6 +311,7 @@ Whenever another follower is put onto your field, select an enemy follower on th
 				<pt>1/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -306,6 +324,7 @@ Whenever another follower is put onto your field, select an enemy follower on th
 				<pt>1/4</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -320,6 +339,7 @@ Whenever another follower is put onto your field, select an enemy follower on th
 				<pt>1/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -334,6 +354,7 @@ Whenever another follower is put onto your field, select an enemy follower on th
 				<pt>5/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -348,6 +369,7 @@ Whenever another follower is put onto your field, select an enemy follower on th
 				<pt>5/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -361,6 +383,7 @@ Whenever another follower is put onto your field, select an enemy follower on th
 				<type>Spell|Forestcraft - Pixie</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -375,6 +398,7 @@ Select an enemy follower on the field. It cannot deal damage this turn.</text>
 				<type>Spell|Forestcraft - Fae-Touched</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -389,6 +413,7 @@ Select an enemy follower on the field. It cannot deal damage this turn.</text>
 				<type>Spell|Forestcraft - Fae-Touched</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -404,6 +429,7 @@ Select an enemy follower on the field. It cannot deal damage this turn.</text>
 				<pt>3/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -416,6 +442,7 @@ Select an enemy follower on the field. It cannot deal damage this turn.</text>
 				<pt>4/5</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -431,6 +458,7 @@ Select an enemy follower on the field. It cannot deal damage this turn.</text>
 				<pt>4/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -446,6 +474,7 @@ Select an enemy follower on the field. It cannot deal damage this turn.</text>
 				<pt>4/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -458,6 +487,7 @@ Select an enemy follower on the field. It cannot deal damage this turn.</text>
 				<pt>5/5</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -473,6 +503,7 @@ Select an enemy follower on the field. It cannot deal damage this turn.</text>
 				<pt>6/8</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -486,6 +517,7 @@ Select an enemy follower on the field. It cannot deal damage this turn.</text>
 				<type>Spell|Swordcraft - Thief</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -500,6 +532,7 @@ Whenever a swordcraft follower is put onto your field, give it +1/+1.</text>
 				<type>Amulet|Swordcraft - </type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -514,6 +547,7 @@ Whenever a swordcraft follower is put onto your field, give it +1/+1.</text>
 				<pt>1/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -526,6 +560,7 @@ Whenever a swordcraft follower is put onto your field, give it +1/+1.</text>
 				<pt>2/2</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -540,6 +575,7 @@ Whenever a swordcraft follower is put onto your field, give it +1/+1.</text>
 				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -554,6 +590,7 @@ Whenever a swordcraft follower is put onto your field, give it +1/+1.</text>
 				<pt>5/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -569,6 +606,7 @@ Whenever a swordcraft follower is put onto your field, give it +1/+1.</text>
 				<pt>2/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -583,6 +621,7 @@ Whenever a swordcraft follower is put onto your field, give it +1/+1.</text>
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -597,6 +636,7 @@ Whenever a swordcraft follower is put onto your field, give it +1/+1.</text>
 				<pt>4/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -612,6 +652,7 @@ Whenever a swordcraft follower is put onto your field, give it +1/+1.</text>
 				<type>Amulet|Swordcraft - Commander</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -626,6 +667,7 @@ Whenever a swordcraft follower is put onto your field, give it +1/+1.</text>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -641,6 +683,7 @@ Whenever another follower is put onto your field, give this follower +1/+0.</tex
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -653,6 +696,7 @@ Whenever another follower is put onto your field, give this follower +1/+0.</tex
 				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -668,6 +712,7 @@ Whenever another follower is put onto your field, give this follower +1/+0.</tex
 				<pt>3/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -682,6 +727,7 @@ Whenever another follower is put onto your field, give this follower +1/+0.</tex
 				<pt>2/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -696,6 +742,7 @@ Whenever another follower is put onto your field, give this follower +1/+0.</tex
 				<pt>2/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -710,6 +757,7 @@ Whenever another follower is put onto your field, give this follower +1/+0.</tex
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -724,6 +772,7 @@ Select a follower on your field. Give it +1/+1 and draw a card.</text>
 				<type>Spell|Swordcraft - Officer</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -737,6 +786,7 @@ Select a follower on your field. Give it +1/+1 and draw a card.</text>
 				<type>Spell|Swordcraft - Officer</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -752,6 +802,7 @@ Select a follower on your field. Give it +1/+1 and draw a card.</text>
 				<pt>6/8</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -767,6 +818,7 @@ Select a follower on your field. Give it +1/+1 and draw a card.</text>
 				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -779,6 +831,7 @@ Select a follower on your field. Give it +1/+1 and draw a card.</text>
 				<pt>4/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -794,6 +847,7 @@ Select a follower on your field. Give it +1/+1 and draw a card.</text>
 				<pt>2/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -807,6 +861,7 @@ Whenever a Golem follower is put onto your field, select an enemy leader or enem
 				<pt>3/6</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -822,6 +877,7 @@ At the start of your next end phase, banish each card in your EX area.</text>
 				<type>Spell|Runecraft - Mage</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -836,6 +892,7 @@ Take another turn after this one.</text>
 				<type>Spell|Runecraft - Mage</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -851,6 +908,7 @@ Take another turn after this one.</text>
 				<type>Amulet|Runecraft - Alchemist</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -866,6 +924,7 @@ Take another turn after this one.</text>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -878,6 +937,7 @@ Take another turn after this one.</text>
 				<pt>3/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -893,6 +953,7 @@ Rush.</text>
 				<pt>7/7</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -908,6 +969,7 @@ Rush.</text>
 				<pt>3/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -922,6 +984,7 @@ Earth Rite: Give each Golem follower on your field +1/+1.</text>
 				<type>Spell|Runecraft - Alchemist</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -935,6 +998,7 @@ Earth Rite: Give each Golem follower on your field +1/+1.</text>
 				<type>Spell|Runecraft - Mage</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -950,6 +1014,7 @@ Draw 2 cards. Spellchain (10): Recover 1 play point.</text>
 				<pt></pt>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -964,6 +1029,7 @@ Draw 2 cards. Spellchain (10): Recover 1 play point.</text>
 				<type>Amulet|Runecraft - Earth Sigil</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -979,6 +1045,7 @@ Draw 2 cards. Spellchain (10): Recover 1 play point.</text>
 				<pt>3/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -994,6 +1061,7 @@ Draw 2 cards. Spellchain (10): Recover 1 play point.</text>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1006,6 +1074,7 @@ Draw 2 cards. Spellchain (10): Recover 1 play point.</text>
 				<pt>3/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1020,6 +1089,7 @@ Draw 2 cards. Spellchain (10): Recover 1 play point.</text>
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1033,6 +1103,7 @@ Draw 2 cards. Spellchain (10): Recover 1 play point.</text>
 				<type>Spell|Runecraft - Mage</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1047,6 +1118,7 @@ Look at the top 4 cards of your deck. You may reveal a spell from among them and
 				<type>Spell|Runecraft - Mage</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1061,6 +1133,7 @@ Select an enemy follower on the field and destroy it. Spellchain (10): Deal 3 da
 				<type>Spell|Runecraft - Mage</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1075,6 +1148,7 @@ Select an enemy follower on the field and destroy it. Spellchain (10): Deal 3 da
 				<type>Amulet|Runecraft - Earth Sigil</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1090,6 +1164,7 @@ Select an enemy follower on the field and destroy it. Spellchain (10): Deal 3 da
 				<pt></pt>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1105,6 +1180,7 @@ Storm.</text>
 				<pt>5/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1117,6 +1193,7 @@ Storm.</text>
 				<pt>7/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1132,6 +1209,7 @@ Storm.</text>
 				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1147,6 +1225,7 @@ Storm.</text>
 				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1161,6 +1240,7 @@ Storm.</text>
 				<pt>10/12</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1176,6 +1256,7 @@ Storm.</text>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1188,6 +1269,7 @@ Storm.</text>
 				<pt>2/2</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1201,6 +1283,7 @@ Storm.</text>
 				<type>Amulet|Dragoncraft - Phoenix</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1215,6 +1298,7 @@ Storm.</text>
 				<pt>5/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1230,6 +1314,7 @@ Strike: Draw a card, then discard a card.</text>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1246,6 +1331,7 @@ Ward.
 				<pt>4/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1259,6 +1345,7 @@ On Evolve: Give your leader +0/+5.</text>
 				<pt>5/6</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1274,6 +1361,7 @@ This follower can’t attack enemies.</text>
 				<pt>4/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1287,6 +1375,7 @@ This follower can’t attack enemies.</text>
 				<type>Spell|Dragoncraft - Wyrmkin</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1301,6 +1390,7 @@ Select an enemy follower on the field. Deal it 5 damage and, if Overflow is acti
 				<type>Spell|Dragoncraft - Wyrmkin</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1315,6 +1405,7 @@ Select an enemy follower on the field. Deal it 5 damage and, if Overflow is acti
 				<type>Amulet|Dragoncraft - Dragonewt</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1329,6 +1420,7 @@ Select an enemy follower on the field. Deal it 5 damage and, if Overflow is acti
 				<pt>1/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1341,6 +1433,7 @@ Select an enemy follower on the field. Deal it 5 damage and, if Overflow is acti
 				<pt>2/2</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1355,6 +1448,7 @@ Select an enemy follower on the field. Deal it 5 damage and, if Overflow is acti
 				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1370,6 +1464,7 @@ Select an enemy follower on the field. Deal it 5 damage and, if Overflow is acti
 				<pt>0/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1384,6 +1479,7 @@ Select an enemy follower on the field. Deal it 5 damage and, if Overflow is acti
 				<pt>4/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1398,6 +1494,7 @@ Select an enemy follower on the field. Deal it 5 damage and, if Overflow is acti
 				<pt>7/7</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1412,6 +1509,7 @@ Select an enemy follower on the field and deal it 2 damage. If Overflow is activ
 				<type>Spell|Dragoncraft - Wyrmkin</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1425,6 +1523,7 @@ Select an enemy follower on the field and deal it 2 damage. If Overflow is activ
 				<type>Spell|Dragoncraft - Wyrmkin</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1438,6 +1537,7 @@ Select an enemy follower on the field and deal it 2 damage. If Overflow is activ
 				<type>Spell|Dragoncraft - Wyrmkin</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1453,6 +1553,7 @@ Select an enemy follower on the field and deal it 2 damage. If Overflow is activ
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1465,6 +1566,7 @@ Select an enemy follower on the field and deal it 2 damage. If Overflow is activ
 				<pt>5/5</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1479,6 +1581,7 @@ Select an enemy follower on the field and deal it 2 damage. If Overflow is activ
 				<pt>6/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1496,6 +1599,7 @@ Bane.
 				<pt>6/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1511,6 +1615,7 @@ Bane.</text>
 				<pt>2/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1524,6 +1629,7 @@ Whenever an enemy follower is destroyed, deal 1 damage to its leader and give yo
 				<pt>3/5</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1538,6 +1644,7 @@ Whenever an enemy follower is destroyed, deal 1 damage to its leader and give yo
 				<pt>5/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1552,6 +1659,7 @@ Whenever an enemy follower is destroyed, deal 1 damage to its leader and give yo
 				<type>Amulet|Abysscraft - Demon</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1566,6 +1674,7 @@ Whenever an enemy follower is destroyed, deal 1 damage to its leader and give yo
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1580,6 +1689,7 @@ Whenever an enemy follower is destroyed, deal 1 damage to its leader and give yo
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1592,6 +1702,7 @@ Whenever an enemy follower is destroyed, deal 1 damage to its leader and give yo
 				<pt>3/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1606,6 +1717,7 @@ Whenever an enemy follower is destroyed, deal 1 damage to its leader and give yo
 				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1620,6 +1732,7 @@ Whenever an enemy follower is destroyed, deal 1 damage to its leader and give yo
 				<pt>5/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1633,6 +1746,7 @@ Whenever an enemy follower is destroyed, deal 1 damage to its leader and give yo
 				<type>Spell|Abysscraft - Departed</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1646,6 +1760,7 @@ Whenever an enemy follower is destroyed, deal 1 damage to its leader and give yo
 				<type>Spell|Abysscraft - Departed</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1660,6 +1775,7 @@ Select a follower on your field. Destroy it and draw 2 cards.</text>
 				<type>Spell|Abysscraft - Departed</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1674,6 +1790,7 @@ Select a follower on your field. Destroy it and draw 2 cards.</text>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1688,6 +1805,7 @@ Select a follower on your field. Destroy it and draw 2 cards.</text>
 				<pt>2/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1703,6 +1821,7 @@ Select a follower on your field. Destroy it and draw 2 cards.</text>
 				<pt>2/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1717,6 +1836,7 @@ Select a follower on your field. Destroy it and draw 2 cards.</text>
 				<pt>2/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1731,6 +1851,7 @@ Select a follower on your field. Destroy it and draw 2 cards.</text>
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1745,6 +1866,7 @@ Select a follower on your field. Destroy it and draw 2 cards.</text>
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1757,6 +1879,7 @@ Select a follower on your field. Destroy it and draw 2 cards.</text>
 				<pt>3/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1771,6 +1894,7 @@ Select a follower on your field. Destroy it and draw 2 cards.</text>
 				<pt>6/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1786,6 +1910,7 @@ Select an enemy leader or enemy follower on the field and deal it 3 damage.</tex
 				<type>Spell|Abysscraft - </type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1802,6 +1927,7 @@ At the start of your end phase, give this follower +0/+2.</text>
 				<pt>4/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1817,6 +1943,7 @@ At the start of your end phase, give this follower +0/+2.</text>
 				<pt>3/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1829,6 +1956,7 @@ At the start of your end phase, give this follower +0/+2.</text>
 				<pt>4/5</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1844,6 +1972,7 @@ While this card is on your field, your followers deal damage equal to their defe
 				<pt>0/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1857,6 +1986,7 @@ At the start of your end phase, give this follower +0/+2.</text>
 				<pt>0/6</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1870,6 +2000,7 @@ At the start of your end phase, give this follower +0/+2.</text>
 				<type>Spell|Havencraft - Faith</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1883,6 +2014,7 @@ At the start of your end phase, give this follower +0/+2.</text>
 				<type>Spell|Havencraft - Faith</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1897,6 +2029,7 @@ At the start of your end phase, give this follower +0/+2.</text>
 				<type>Amulet|Havencraft - Faith</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1912,6 +2045,7 @@ Reduce damage dealt to this follower by 1.</text>
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1926,6 +2060,7 @@ Reduce damage dealt to this follower by 1.</text>
 				<pt>1/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1938,6 +2073,7 @@ Reduce damage dealt to this follower by 1.</text>
 				<pt>2/2</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1953,6 +2089,7 @@ During each opponent's turn, this follower deals 4 more damage.</text>
 				<pt>1/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1967,6 +2104,7 @@ During each opponent's turn, this follower deals 4 more damage.</text>
 				<pt>5/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1981,6 +2119,7 @@ Select an enemy follower with 3 defense or less on the field and banish it.</tex
 				<type>Spell|Havencraft - Zealot</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -1995,6 +2134,7 @@ Select a card on your field. Destroy it, give your leader +3 defense, and draw a
 				<type>Spell|Havencraft - Zealot</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2008,6 +2148,7 @@ Select a card on your field. Destroy it, give your leader +3 defense, and draw a
 				<type>Amulet|Havencraft - Faith/Beast</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2022,6 +2163,7 @@ Select a card on your field. Destroy it, give your leader +3 defense, and draw a
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2036,6 +2178,7 @@ Select a card on your field. Destroy it, give your leader +3 defense, and draw a
 				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2051,6 +2194,7 @@ Aura.</text>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2063,6 +2207,7 @@ Aura.</text>
 				<pt>3/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2077,6 +2222,7 @@ Aura.</text>
 				<pt>1/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2091,6 +2237,7 @@ Aura.</text>
 				<pt>5/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2105,6 +2252,7 @@ Look at the top 5 cards of your deck. You may reveal an amulet from among them a
 				<type>Spell|Havencraft - Faith</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2119,6 +2267,7 @@ Look at the top 5 cards of your deck. You may reveal an amulet from among them a
 				<type>Amulet|Havencraft - Faith</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2133,6 +2282,7 @@ Look at the top 5 cards of your deck. You may reveal an amulet from among them a
 				<type>Amulet|Havencraft - Zealot</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2148,6 +2298,7 @@ Look at the top 5 cards of your deck. You may reveal an amulet from among them a
 				<pt>4/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2164,6 +2315,7 @@ At the start of your end phase, give your leader +4 defense.</text>
 				<pt>6/7</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2177,6 +2329,7 @@ At the start of your end phase, deal 4 damage to each enemy leader.</text>
 				<pt>8/7</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2192,6 +2345,7 @@ Strike: Deal 3 damage to each enemy follower on the field. If there is a Harness
 				<pt>7/7</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2207,6 +2361,7 @@ Strike: Deal 3 damage to each enemy follower on the field. If there is a Harness
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2219,6 +2374,7 @@ Strike: Deal 3 damage to each enemy follower on the field. If there is a Harness
 				<pt>3/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2234,6 +2390,7 @@ At the start of your end phase, give each follower on your field +1/+0.</text>
 				<pt>1/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2248,6 +2405,7 @@ At the start of your end phase, give each follower on your field +1/+0.</text>
 				<pt>6/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2264,6 +2422,7 @@ Ward.
 				<pt>0/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2278,6 +2437,7 @@ On Evolve: Select an enemy follower on the field and deal it 2 damage.
 				<pt>0/2</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2291,6 +2451,7 @@ On Evolve: Select an enemy follower on the field and deal it 2 damage.
 				<type>Spell|Neutral - Deity</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2306,6 +2467,7 @@ At the start of your end phase, if your leader's defense is 6 or less, (tap), pu
 				<pt></pt>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2320,6 +2482,7 @@ At the start of your end phase, if your leader's defense is 6 or less, (tap), pu
 				<pt>4/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2336,6 +2499,7 @@ Ward.
 				<pt>6/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2348,6 +2512,7 @@ Ward.
 				<pt>7/7</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2362,6 +2527,7 @@ Ward.
 				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2376,6 +2542,7 @@ Ward.
 				<pt>2/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2389,6 +2556,7 @@ Ward.
 				<type>Spell|Neutral - Fiend</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2403,6 +2571,7 @@ Select an enemy card on the field and destroy it.</text>
 				<type>Spell|Neutral - Fiend</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2419,6 +2588,7 @@ Draw a card.</text>
 				<pt></pt>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2433,6 +2603,7 @@ Draw a card.</text>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2445,6 +2616,7 @@ Draw a card.</text>
 				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2459,6 +2631,7 @@ Draw a card.</text>
 				<pt>2/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2473,6 +2646,7 @@ Draw a card.</text>
 				<pt>3/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2485,6 +2659,7 @@ Draw a card.</text>
 				<pt>5/6</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2499,6 +2674,7 @@ Draw a card.</text>
 				<pt>4/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2514,6 +2690,7 @@ Draw a card.</text>
 				<pt>2/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2526,6 +2703,7 @@ Draw a card.</text>
 				<pt>3/5</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2540,6 +2718,7 @@ Select an enemy follower on the field and deal it 2 damage.</text>
 				<type>Spell|Neutral - Angel</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2554,6 +2733,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Spell|Neutral - Angel</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- BP01 Leaders -->
@@ -2565,6 +2745,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Leader|Forestcraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2575,6 +2756,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Leader|Forestcraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2585,6 +2767,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Leader|Swordcraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2595,6 +2778,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Leader|Swordcraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2605,6 +2789,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Leader|Runecraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2615,6 +2800,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Leader|Runecraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2625,6 +2811,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Leader|Dragoncraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2635,6 +2822,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Leader|Dragoncraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2645,6 +2833,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Leader|Abysscraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2655,6 +2844,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Leader|Abysscraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2665,6 +2855,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Leader|Havencraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2675,6 +2866,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Leader|Havencraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- BP01 Tokens -->
@@ -2689,6 +2881,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Spell|Token|Forestcraft</type>
 				<maintype>Spell|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2702,6 +2895,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>1/1</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2715,6 +2909,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>1/1</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2729,6 +2924,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>1/2</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2742,6 +2938,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>1/1</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2756,6 +2953,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>3/2</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2769,6 +2967,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>2/2</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2783,6 +2982,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>3/2</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2797,6 +2997,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>2/3</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2813,6 +3014,7 @@ When this card would leave the field, remove 1 Stack counter from it instead. Wh
 				<type>Amulet|Token|Runecraft - Earth Sigil</type>
 				<maintype>Amulet|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2826,6 +3028,7 @@ When this card would leave the field, remove 1 Stack counter from it instead. Wh
 				<pt>5/5</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2839,6 +3042,7 @@ When this card would leave the field, remove 1 Stack counter from it instead. Wh
 				<type>Spell|Token|Abysscraft</type>
 				<maintype>Spell|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2852,6 +3056,7 @@ When this card would leave the field, remove 1 Stack counter from it instead. Wh
 				<type>Spell|Token|Abysscraft</type>
 				<maintype>Spell|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2867,6 +3072,7 @@ At the start of your end phase, banish this card.</text>
 				<pt>1/1</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2880,6 +3086,7 @@ At the start of your end phase, banish this card.</text>
 				<pt>1/1</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2894,6 +3101,7 @@ At the start of your end phase, banish this card.</text>
 				<pt>2/2</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2908,6 +3116,7 @@ At the start of your end phase, banish this card.</text>
 				<pt>4/4</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2920,6 +3129,7 @@ You can use an Evolution Point toward paying an (E) cost by flipping this card o
 				<type>Token</type>
 				<maintype>Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD01 Main -->
@@ -2937,6 +3147,7 @@ While this card is on your field, your other Pixie followers have Rush.</text>
 				<pt>5/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2953,6 +3164,7 @@ Whenever a Pixie token is put onto your field, give it +1/+1.
 				<type>Amulet|Forestcraft - Pixie/Princess</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2967,6 +3179,7 @@ Whenever a Pixie token is put onto your field, give it +1/+1.
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2979,6 +3192,7 @@ Whenever a Pixie token is put onto your field, give it +1/+1.
 				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -2993,6 +3207,7 @@ Whenever a Pixie token is put onto your field, give it +1/+1.
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3007,6 +3222,7 @@ Whenever a Pixie token is put onto your field, give it +1/+1.
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3021,6 +3237,7 @@ Whenever a Pixie token is put onto your field, give it +1/+1.
 				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3035,6 +3252,7 @@ Whenever a Pixie token is put onto your field, give it +1/+1.
 				<pt>5/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3050,6 +3268,7 @@ Whenever a Pixie token is put onto your field, give it +1/+1.
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3061,6 +3280,7 @@ Whenever a Pixie token is put onto your field, give it +1/+1.
 				<pt>5/5</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3076,6 +3296,7 @@ Whenever a Pixie token is put onto your field, give it +1/+1.
 				<pt>1/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3089,6 +3310,7 @@ Whenever a Pixie token is put onto your field, give it +1/+1.
 				<pt>2/2</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3104,6 +3326,7 @@ This follower ignores Ward.</text>
 				<pt>2/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3117,6 +3340,7 @@ This follower ignores Ward.</text>
 				<type>Spell|Forestcraft - Pixie</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3131,6 +3355,7 @@ This follower ignores Ward.</text>
 				<type>Amulet|Forestcraft - Fae-Touched</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3145,6 +3370,7 @@ Select an enemy follower on the field. Deal it 3 damage and put a Fairy token in
 				<type>Spell|Forestcraft - Elf</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3159,6 +3385,7 @@ Select an enemy follower on the field. Deal it 3 damage and put a Fairy token in
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3170,6 +3397,7 @@ Select an enemy follower on the field. Deal it 3 damage and put a Fairy token in
 				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3185,6 +3413,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<type>Spell|Neutral</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3200,6 +3429,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<type>Spell|Neutral</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD01 Leaders -->
@@ -3211,6 +3441,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<type>Leader|Forestcraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD01 Tokens -->
@@ -3225,6 +3456,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<pt>1/1</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD02 Main -->
@@ -3240,6 +3472,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<pt>5/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3253,6 +3486,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3267,6 +3501,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3279,6 +3514,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3293,6 +3529,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3308,6 +3545,7 @@ Strike: Select another follower on your field and give it +2/+0.</text>
 				<pt>5/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3321,6 +3559,7 @@ Strike: Select another follower on your field and give it +2/+0.</text>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3335,6 +3574,7 @@ Strike: Select another follower on your field and give it +2/+0.</text>
 				<pt>2/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3349,6 +3589,7 @@ Strike: Select another follower on your field and give it +2/+0.</text>
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3364,6 +3605,7 @@ Strike: Select another follower on your field and give it +2/+0.</text>
 				<pt>1/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3376,6 +3618,7 @@ Strike: Select another follower on your field and give it +2/+0.</text>
 				<pt>3/1</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3391,6 +3634,7 @@ Storm. (Followers with Storm can attack enemy followers and leaders on the turn 
 				<pt>1/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3403,6 +3647,7 @@ Storm. (Followers with Storm can attack enemy followers and leaders on the turn 
 				<pt>3/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3417,6 +3662,7 @@ Select a follower on your field. Give it +1/+1 and draw a card.</text>
 				<type>Spell|Swordcraft - Officer</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3430,6 +3676,7 @@ Select a follower on your field. Give it +1/+1 and draw a card.</text>
 				<type>Spell|Swordcraft - Officer</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3445,6 +3692,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<type>Spell|Swordcraft - Officer</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3459,6 +3707,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3470,6 +3719,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3483,6 +3733,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>2/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3497,6 +3748,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>4/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD02 Leaders -->
@@ -3508,6 +3760,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<type>Leader|Swordcraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD02 Tokens -->
@@ -3522,6 +3775,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>1/1</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3535,6 +3789,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>2/2</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD03 Main -->
@@ -3550,6 +3805,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>5/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3564,6 +3820,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>1/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3578,6 +3835,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3590,6 +3848,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3604,6 +3863,7 @@ Draw a card.</text>
 				<type>Spell|Runecraft - Mage</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3618,6 +3878,7 @@ Select up to 2 enemy followers on the field and deal 3 damage divided between th
 				<type>Spell|Runecraft - Mage</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3632,6 +3893,7 @@ Select up to 2 enemy followers on the field and deal 3 damage divided between th
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3647,6 +3909,7 @@ Select up to 2 enemy followers on the field and deal 3 damage divided between th
 				<pt>1/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3660,6 +3923,7 @@ Select up to 2 enemy followers on the field and deal 3 damage divided between th
 				<pt>2/5</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3675,6 +3939,7 @@ Select up to 2 enemy followers on the field and deal 3 damage divided between th
 				<pt>2/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3687,6 +3952,7 @@ Select up to 2 enemy followers on the field and deal 3 damage divided between th
 				<pt>3/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3700,6 +3966,7 @@ Select up to 2 enemy followers on the field and deal 3 damage divided between th
 				<type>Spell|Runecraft - Mage</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3714,6 +3981,7 @@ Look at the top 4 cards of your deck. You may reveal a spell from among them and
 				<type>Spell|Runecraft - Mage</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3728,6 +3996,7 @@ Select an enemy follower on the field and destroy it. Spellchain (10): Deal 3 da
 				<type>Spell|Runecraft - Mage</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3742,6 +4011,7 @@ Select an enemy follower on the field. Deal it 2 damage and draw a card.</text>
 				<type>Spell|Runecraft - Mage</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3756,6 +4026,7 @@ Put a Guardform Golem or Strikeform Golem token into your EX area.</text>
 				<type>Spell|Runecraft - Alchemist</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3771,6 +4042,7 @@ Put a Guardform Golem or Strikeform Golem token into your EX area.</text>
 				<pt>2/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3783,6 +4055,7 @@ Put a Guardform Golem or Strikeform Golem token into your EX area.</text>
 				<pt>3/5</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3797,6 +4070,7 @@ Select an enemy follower on the field and deal it 2 damage.</text>
 				<type>Spell|Neutral - Angel</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3811,6 +4085,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Spell|Neutral - Angel</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD03 Leaders -->
@@ -3822,6 +4097,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Leader|Runecraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD03 Tokens -->
@@ -3837,6 +4113,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>3/2</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3851,6 +4128,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>2/3</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD04 Main -->
@@ -3866,6 +4144,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>7/8</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3879,6 +4158,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<type>Spell|Dragoncraft - Wyrmkin</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3893,6 +4173,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3905,6 +4186,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3919,6 +4201,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>2/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3934,6 +4217,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>4/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3948,6 +4232,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3962,6 +4247,7 @@ Deal 1 damage to each enemy follower on the field.</text>
 				<pt>7/7</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3977,6 +4263,7 @@ Strike: Give this follower +1/+0.</text>
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -3989,6 +4276,7 @@ Strike: Give this follower +1/+0.</text>
 				<pt>3/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4003,6 +4291,7 @@ Strike: Give this follower +1/+0.</text>
 				<pt>5/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4018,6 +4307,7 @@ Strike: Give this follower +1/+0.</text>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4030,6 +4320,7 @@ Strike: Give this follower +1/+0.</text>
 				<pt>3/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4044,6 +4335,7 @@ Strike: Give this follower +1/+0.</text>
 				<pt>4/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4059,6 +4351,7 @@ Select an enemy follower on the field and deal it 2 damage. If Overflow is activ
 				<type>Spell|Dragoncraft - Wyrmkin</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4072,6 +4365,7 @@ Select an enemy follower on the field and deal it 2 damage. If Overflow is activ
 				<type>Spell|Dragoncraft - Wyrmkin</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4086,6 +4380,7 @@ Select an enemy follower on the field and deal it 2 damage. If Overflow is activ
 				<pt>3/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4097,6 +4392,7 @@ Select an enemy follower on the field and deal it 2 damage. If Overflow is activ
 				<pt>5/6</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4111,6 +4407,7 @@ Select an enemy follower on the field and deal it 2 damage. If Overflow is activ
 				<pt>4/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4126,6 +4423,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<type>Spell|Neutral - Angel</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD04 Leaders -->
@@ -4137,6 +4435,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<type>Leader|Dragoncraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD04 Tokens -->
@@ -4151,6 +4450,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<pt>5/5</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD05 Main -->
@@ -4168,6 +4468,7 @@ Whenever a Forest Bat token is put onto your field, give it +1/+0 and Ward.</tex
 				<pt>5/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4184,6 +4485,7 @@ Strike: Select an enemy follower on the field. Deal it 4 damage and give your le
 				<pt>4/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4198,6 +4500,7 @@ Strike: Select an enemy follower on the field. Deal it 4 damage and give your le
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4210,6 +4513,7 @@ Strike: Select an enemy follower on the field. Deal it 4 damage and give your le
 				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4225,6 +4529,7 @@ While this card is on your field, your Forest Bat tokens have Drain. (When a fol
 				<pt>2/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4239,6 +4544,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<type>Spell|Abysscraft - Vampire</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4254,6 +4560,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>2/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4268,6 +4575,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>2/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4282,6 +4590,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>6/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4297,6 +4606,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4309,6 +4619,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>3/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4324,6 +4635,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4336,6 +4648,7 @@ Select an enemy follower on the field and deal it X damage. X equals the number 
 				<pt>3/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4351,6 +4664,7 @@ Select an enemy leader or enemy follower on the field and deal it 3 damage.</tex
 				<type>Spell|Abysscraft - Demon</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4365,6 +4679,7 @@ Select an enemy follower on the field. Deal it 3 damage and put the top card of 
 				<type>Spell|Abysscraft - Departed</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4379,6 +4694,7 @@ Put a Forest Bat token into your EX area.</text>
 				<type>Spell|Abysscraft - Vampire</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4392,6 +4708,7 @@ Put a Forest Bat token into your EX area.</text>
 				<pt>2/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4406,6 +4723,7 @@ Put a Forest Bat token into your EX area.</text>
 				<pt>3/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4417,6 +4735,7 @@ Put a Forest Bat token into your EX area.</text>
 				<pt>5/6</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4431,6 +4750,7 @@ Put a Forest Bat token into your EX area.</text>
 				<pt>4/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD05 Leaders -->
@@ -4442,6 +4762,7 @@ Put a Forest Bat token into your EX area.</text>
 				<type>Leader|Abysscraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD05 Tokens -->
@@ -4457,6 +4778,7 @@ Put a Forest Bat token into your EX area.</text>
 				<type>Follower|Token|Abysscraft - Departed</type>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4470,6 +4792,7 @@ Put a Forest Bat token into your EX area.</text>
 				<pt>1/1</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD06 Main -->
@@ -4486,6 +4809,7 @@ Whenever an amulet leaves your field, deal 2 damage to each enemy leader and ene
 				<pt>6/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4500,6 +4824,7 @@ Whenever an amulet leaves your field, deal 2 damage to each enemy leader and ene
 				<type>Amulet|Havencraft - Faith</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4514,6 +4839,7 @@ Whenever an amulet leaves your field, deal 2 damage to each enemy leader and ene
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4526,6 +4852,7 @@ Whenever an amulet leaves your field, deal 2 damage to each enemy leader and ene
 				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4540,6 +4867,7 @@ Select an enemy follower on the field. Banish it and give your leader +2 defense
 				<type>Spell|Havencraft - Faith</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4554,6 +4882,7 @@ Select an enemy follower on the field. Banish it and give your leader +2 defense
 				<type>Amulet|Havencraft - Faith/Beast</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4568,6 +4897,7 @@ Select an enemy follower on the field. Banish it and give your leader +2 defense
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4582,6 +4912,7 @@ Select an enemy follower on the field. Banish it and give your leader +2 defense
 				<pt>1/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4598,6 +4929,7 @@ During each opponent's turn, this follower deals 1 more damage.</text>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4612,6 +4944,7 @@ During each opponent’s turn, this follower deals 2 more damage.
 				<pt>3/3</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4628,6 +4961,7 @@ Ward.
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4641,6 +4975,7 @@ On Evolve: Give your leader +2 defense.</text>
 				<pt>4/4</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4655,6 +4990,7 @@ Look at the top 5 cards of your deck. You may reveal an amulet from among them a
 				<type>Spell|Havencraft - </type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4669,6 +5005,7 @@ Look at the top 5 cards of your deck. You may reveal an amulet from among them a
 				<type>Amulet|Havencraft - Zealot</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4682,6 +5019,7 @@ Look at the top 5 cards of your deck. You may reveal an amulet from among them a
 				<type>Amulet|Havencraft - Faith/Avian</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4696,6 +5034,7 @@ Look at the top 5 cards of your deck. You may reveal an amulet from among them a
 				<type>Amulet|Havencraft - Faith/Beast</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4710,6 +5049,7 @@ Look at the top 5 cards of your deck. You may reveal an amulet from among them a
 				<pt>4/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4725,6 +5065,7 @@ Look at the top 5 cards of your deck. You may reveal an amulet from among them a
 				<pt>2/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4737,6 +5078,7 @@ Look at the top 5 cards of your deck. You may reveal an amulet from among them a
 				<pt>3/5</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4752,6 +5094,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<type>Spell|Neutral</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD06 Leaders -->
@@ -4763,6 +5106,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<type>Leader|Havencraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- SD06 Tokens -->
@@ -4778,6 +5122,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<pt>2/2</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<card>
@@ -4792,6 +5137,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<pt>4/4</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 		<!-- Random Early Stuff -->
@@ -4803,6 +5149,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<type>Leader|Dragon</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
 			</prop>
 		</card>
 	</cards>
