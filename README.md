@@ -132,4 +132,4 @@ We will have the cards updated as quick as we can. Keep in mind that we are inpu
 
 <h3>I found an error in a card's text/name/etc in the database, how do I let you know about it?</h3>
 
-Drop an ping to @skonx or @starfruit_ in the [Shadowverse Evolve server]((https://discord.gg/shadowverse-evolve-tcg-community-928746294384677004)) and give a clear explanation of the error. We may not respond, but we do read every ping and all errors we get notified of and acknowledge on out end will be fixed upon the next set update. If you have a more general problem like getting the plugin to install properly in the first place, we will be able to assist as well.
+Drop an ping to @skonx or @starfruit_ in the [Shadowverse Evolve server](https://discord.gg/shadowverse-evolve-tcg-community-928746294384677004) and give a clear explanation of the error. We may not respond, but we do read every ping and all errors we get notified of and acknowledge on out end will be fixed upon the next set update. If you have a more general problem like getting the plugin to install properly in the first place, we will be able to assist as well.
