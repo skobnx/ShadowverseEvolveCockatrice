@@ -1,5 +1,5 @@
 <h1 align = "center">
-    <a href="https://github.com/skobnx/ShadowverseEvolveCockatrice/archive/refs/heads/main.zip"><img src = "https://imgur.com/eWuWoF2.jpg" width="1000">
+    <a href="https://github.com/skobnx/ShadowverseEvolveCockatrice/raw/main/ShadowverseEvolveTCG.xml"><img src = "https://imgur.com/eWuWoF2.jpg" width="1000">
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@ Welcome to the guide on how to import a custom set XML file to Cockatrice. This 
 ## Download
 **Prerequisite:** Make sure you have [Cockatrice](https://cockatrice.github.io/) installed on your computer (Windows, Mac, Linux, etc). If not, download and install Cockatrice from the provided link.
 
-1. [Download](https://github.com/skobnx/ShadowverseEvolveCockatrice/archive/refs/heads/main.zip) the latest ShadowverseEvolveTCG.xml file by clicking the download link or the Forte banner.  
+1. [Download](https://github.com/skobnx/ShadowverseEvolveCockatrice/raw/main/ShadowverseEvolveTCG.xml) the latest ShadowverseEvolveTCG.xml file by clicking the download link or the Forte banner.  
 
 2. Unzip the zipped folder and look for the "ShadowverseEvolveTCG.xml" file in the list of files. Remember where you store the xml file for the next few steps. 
 
