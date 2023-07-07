@@ -113,7 +113,7 @@ Common ones include:
 - Ctrl+S: Shuffle deck
 - Ctrl+T: Creating a token
 
-If you want to know more shortcuts, right clicking on various areas and objects will show a menu of actions you can do.
+If you want to know more shortcuts, right clicking on various areas and objects will show a menu of actions and their shortcuts.
 
 <h3> Trial Decks </h3>
 
