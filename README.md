@@ -111,7 +111,7 @@ Playing manually does give many perks, especially when learning the game. Develo
 
 <h3>How often does the plugin update?</h3>
 
-We will have the cards updated as quick as we can. Keep in mind that we are inputting the cards in the xml file manually as there is no API for Shadowverse Evolve card database. We continuously maintain and update this plugin, completely free of charge and for the benefit of the community. If/when an update isn't coming as quickly as you want it, please be patient, life happens sometimes. 
+We will have the cards updated as quick as we can. Keep in mind that we are inputting the cards in the xml file manually as there is no API for Shadowverse Evolve card database. We will continuously maintain and update this plugin, completely free of charge and for the benefit of the community. If/when an update isn't coming as quickly as you want it, please be patient, life happens sometimes. 
 
 <h3>I found an error in a card's text/name/etc in the database, how do I let you know about it?</h3>
 
