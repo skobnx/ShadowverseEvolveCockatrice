@@ -122,7 +122,7 @@ Want to play with the trial decks before constructing a deck? No problem, we hav
 
 ## Questions & Answers
 
-<h3>There is a lot of manual input, where is the automatic simulator</h3>
+<h3>Why is there a lot of manual input?</h3>
 
 Playing manually does give many perks, especially when learning the game. Developing good card movement habits, memorizing turn/phase order, and needing to socially interact with your opponent are but a few advantages that manual sims offer that automated ones do not nearly as easily.
 
