@@ -111,14 +111,14 @@ Common ones include:
 
 There's more than this, but knowing these should be enough to let your play speed and comfiness go way up.  If you want to know more shortcuts, right clicking on various areas and objects will show a menu of actions you can do, some showing their shortcut and others not having any.
 
-<h3> Starter Decks </h3>
+<h3> Trial Decks </h3>
 
-Want to play with the starter decks before constructing a deck? No problem, we have the starter decks already created. In the zipped folder you downloaded, there is a Decks folder. 
+Want to play with the trial decks before constructing a deck? No problem, we have the trial decks already created. In the zipped folder you downloaded, there is a Decks folder. 
 
 1. Click the Decks folder and copy all the decks you want.
 2. Open Cockatrice, click on Deck Editor, and select Load Deck.
 3. A pop up will appear. In here, paste the decks you copied. 
-4. Select the starter deck you want to use.    
+4. Select the trial deck you want to use.    
 
 ## Questions & Answers
 
