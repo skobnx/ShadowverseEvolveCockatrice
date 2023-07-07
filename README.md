@@ -60,7 +60,7 @@ When you open Cockatrice, there are will be Shadowverse Evolve and Magic: the Ga
 
 - Cockatrice has two decks, the main deck and side deck. Thus, we will use the main deck for our main deck, and use the the side deck for our evolve deck. 
 - To add cards to your deck, search for the card you want to add, and double click on it. It will automatically add the card to the main deck. To move the card to your evolve deck, double click on the card from the main deck.
-- It is recommended to add one Land card in the evolve deck to help keep track of used and unused mana. Of course, it is not required and completely optional. 
+- It is recommended to add one Land card in the evolve deck to help keep track of used and unused play points. Of course, it is not required and completely optional. 
 
 Your deck should look like this: 
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126711058233561108/forestcraft-deck.png">
@@ -79,27 +79,40 @@ Your deck should look like this:
 
 - Right-click "Sideboard" to open your Evolve deck and put down your leader.
 - Right-click "Roll the die" to see who goes first. 
+- Notice the seven circles on the side. The player who goes second can left-click on one of the circles to mark down three evolution points. 
 - Draw four cards by double clicking the deck. You can perform mulligans by highlighting every card, right clicking "Bottom to the deck in random order", and drawing four new cards. 
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126729079429800067/Mulligan.gif"> 
 
 - Now this is where the Land cards become helpful to keep track of play points. As you start your turn, right-click "Clone" on the Land card to make a copy. Tap the Land cards to spend play points. If you play Magic: the Gathering or Force of Will, this may seem similar as it is how they keep track of their play points. 
-- On the top left, there is an "Untap" button which lets you untap all the cards on the field. 
+- On the top left, there is an "Untap" button which lets you untap all the cards on the field. It is an easy way to untap all your followers and refresh your play points. 
+<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126736211973783592/Lands.gif">
+
+- An useful feature is that you can hold right-click on a card to drag an arrow towards another card or target your opponent. Use this for target abilities or attacking. Right click on the arrow to remove it
+<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126745558086852638/arrow.png">
+
+- The rest of cockatrice is straightforward. Double-click your followers to tap, left-click your life to decrease, right-click your life to increase, and right-click "Set power and toughness" to change the stats after battling
 
 ## Helpful Tips
-- Yep, Cockatrice has built-in keyboard shortcuts you can press to heighten your play experience with the program.  Common ones include (for Windows users): 
+
+Cockatrice has built-in keyboard shortcuts you can press to heighten your play experience with the program.
+Common ones include: 
 - Ctrl+D: Draw 1 card from deck
-- Ctrl+S: Shuffle deck
-- Ctrl+F3: View sideboard (for accessing your LRIG Deck)
 - Ctrl+E: Draw any number of cards from deck
+- Ctrl+S: Shuffle deck
+- Ctrl+F3: View sideboard (for accessing your Evolve Deck)
 - Ctrl+W: Look at any number of cards on the top of your deck
+- Ctrl+P: Setting power and toughness
 
 There's more than this, but knowing these should be enough to let your play speed and comfiness go way up.  If you want to know more shortcuts, right clicking on various areas and objects will show a menu of actions you can do, some showing their shortcut and others not having any.
 
-- Playing manually does give many perks however, especially when learning the game.  Developing good card movement habits, memorizing turn/phase order, and needing to socially interact with your opponent are but a few advantages that manual sims offer that automated ones do not nearly as easily.
+Playing manually does give many perks, especially when learning the game. Developing good card movement habits, memorizing turn/phase order, and needing to socially interact with your opponent are but a few advantages that manual sims offer that automated ones do not nearly as easily.
 
 ## Questions & Answers
-We will have the cards updated as quick as we can. Keep in mind that we are inputting the cards in the xml file manually as there is no API for Shadowverse Evolve card database. We continuously maintain and update this plugin, completely free of charge and for the benefit of the community.  If/when an update isn't coming as quickly as you want it, please be patient, life happens sometimes. 
 
-<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126354128101199913/mid_game.png" width="1000">
+<h3>How often does the plugin update?</h3>
 
-<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126353629889171476/late_game.png" width="1000">
+We will have the cards updated as quick as we can. Keep in mind that we are inputting the cards in the xml file manually as there is no API for Shadowverse Evolve card database. We continuously maintain and update this plugin, completely free of charge and for the benefit of the community. If/when an update isn't coming as quickly as you want it, please be patient, life happens sometimes. 
+
+<h3>I found an error in a card's text/name/etc in the database, how do I let you know about it?</h3>
+
+Drop an ping to @skonx or @starfruit_ in the [Shadowverse Evolve server]((https://discord.gg/shadowverse-evolve-tcg-community-928746294384677004)) and give a clear explanation of the error. We may not respond, but we do read every ping and all errors we get notified of and acknowledge on out end will be fixed upon the next set update. If you have a more general problem like getting the plugin to install properly in the first place, we will be able to assist as well.
