@@ -50,6 +50,7 @@ Cockatrice's default is white mode. Of course, no one wants to blind their eyes 
 
 ## How to Use
 **Finding Shadowverse Evolve Cards** <br/>
+
 When you open Cockatrice, there are will be Shadowverse Evolve and Magic: the Gathering cards into the lists of cards. No worries, we have that secured. On filters sections, click on the dropdown and select "Format". Type **Shadowverse** or **SV** to filter for only Shadowverse Evolve cards.
 
 **Making a Deck**
