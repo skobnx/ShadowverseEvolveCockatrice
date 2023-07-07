@@ -30,7 +30,7 @@ Welcome to the guide on how to import a custom set XML file to Cockatrice. This 
 
 4. In Cockatrice, navigate to "Card Database" and select "Manage Sets". From the dropdown menu, choose "Open custom sets folder".
 
-5. Locate the "Shadowverse Evolve.xml" file you downloaded from the GitHub page. Move this file into the folder that opened in the previous step.
+5. Locate the "Shadowverse Evolve.xml" file you downloaded from the GitHub page. Move this file into the folder that was opened in the previous step.
 
 6. Close Cockatrice completely, and then reopen it. You will see a prompt indicating that new sets are being added. It will ask if you want to enable them. Click "Yes" to enable the Shadowverse Evolve sets.
 
@@ -47,20 +47,24 @@ These steps are completely optional, but doing so improve your overall experienc
 
 <h3> Dark Mode </h3>
 
-Cockatrice's default is white mode. Of course, no one wants to blind their eyes while playing Shadowverse. This [dark mode](https://github.com/mingomongo/DarkMingo-Theme-for-Cockatrice) extension will change Cockatrice to be dark mode. 
+ This [dark mode](https://github.com/mingomongo/DarkMingo-Theme-for-Cockatrice) extension will change Cockatrice to be dark mode. 
+
+ <img src = "https://media.discordapp.net/attachments/1020188252449280050/1126881204025692242/Dark_Mode.png">
 
 ## How to Use
 <h3> Finding Shadowverse Evolve Cards </h3>
 
-When you open Cockatrice, there are will be Shadowverse Evolve and Magic: the Gathering cards into the lists of cards. No worries, we have that secured. On filters sections, click on the dropdown and select "Format". Type **Shadowverse** or **SV** to filter for only Shadowverse Evolve cards.
+When you open Cockatrice, there are will be Shadowverse Evolve and Magic: the Gathering cards into the lists of cards. Go to filters sections and click on the dropdown. Select "Format" and type **Shadowverse** or **SV** to filter for only Shadowverse Evolve cards.
 
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126713575440916601/card-search.png">
 
 <h3> Making a Deck </h3>
 
-- Cockatrice has two decks, the main deck and side deck. Thus, we will use the main deck for our main deck, and use the the side deck for our evolve deck. 
-- To add cards to your deck, search for the card you want to add, and double click on it. It will automatically add the card to the main deck. To move the card to your evolve deck, double click on the card from the main deck.
-- It is recommended to add one Land card in the evolve deck to help keep track of used and unused play points. Of course, it is not required and completely optional. 
+- Cockatrice has two decks, the main deck and side deck. We will use the main deck for our main deck, and use the the side deck for our evolve deck. 
+- To add cards to your main deck, search for the desired card and double click on it. To move the card to your evolve deck, double click on the card from the main deck.
+- These steps are not required and completely optional. 
+    - Add one Land card in the evolve deck to help keep track of used and unused play points. 
+    - Add the tokens you need in the evolve deck for ease of access.  
 
 Your deck should look like this: 
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126711058233561108/forestcraft-deck.png">
@@ -71,8 +75,6 @@ Your deck should look like this:
     - If you need to register an account, click on "Cockatrice" and "Register to server". Enter a player name, password, email, and click OK. Afterward, accept the verification email to verify your account. 
     - If you already have an account, click on "Cockatrice" and "Connect" to login. 
 -  Once logged in, click on the "Server" tab and select "Other Games" to find other players to play Shadowverse Evolve. 
-    - Because Cockatrice is an MTG-oriented program for online play, you won't be able to find Shadowverse Evolve players with open rooms at all unless you are either 1. extremely lucky, 2. my plugin became famous, or most likely 3. you asked a buddy to play.  #3 is how you'll get matches 99.9% of the time.  
-    - Quickest way to ask for games is to ask for games in the [Shadowverse Evolve](https://discord.gg/shadowverse-evolve-tcg-community-928746294384677004) server or other social media platforms.
 - Once you enter the room, click "Load deck" on the top left corner to select the deck you want to use and "Ready to start".
 
 <h3> Playing the Game </h3>
@@ -104,8 +106,10 @@ Common ones include:
 - Ctrl+F3: View sideboard (for accessing your Evolve Deck) 
 - Ctrl+D: Draw 1 card from deck
 - Ctrl+E: Draw any number of cards from deck
+- Ctrl+I: Roll a die
 - Ctrl+J: Clone a card
 - Ctrl+P: Setting power and toughness
+- Ctrl+R: Remove arrows
 - Ctrl+S: Shuffle deck
 - Ctrl+T: Creating a token
 
@@ -113,7 +117,7 @@ There's more than this, but knowing these should be enough to let your play spee
 
 <h3> Trial Decks </h3>
 
-Want to play with the trial decks before constructing a deck? No problem, we have the trial decks already created. In the zipped folder you downloaded, there is a Decks folder. 
+Want to play with the trial decks before constructing a deck? We have the trial decks already created. In the zipped folder you downloaded, there is a Decks folder. 
 
 1. Click the Decks folder and copy all the decks you want.
 2. Open Cockatrice, click on Deck Editor, and select Load Deck.
