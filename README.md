@@ -59,11 +59,24 @@ When you open Cockatrice, there are will be Shadowverse Evolve and Magic: the Ga
 <h3> Making a Deck </h3>
 
 - Cockatrice has two decks, the main deck and side deck. Thus, we will use the main deck for our main deck, and use the the side deck for our evolve deck. 
-- To add cards to your deck, search for the card you want to add and double click on it. It will automatically add the card to the main deck. To move the card to your evolve deck, double click on the card from the main deck.
+- To add cards to your deck, search for the card you want to add, and double click on it. It will automatically add the card to the main deck. To move the card to your evolve deck, double click on the card from the main deck.
 - It is recommended to add one Land card in the evolve deck to help keep track of used and unused mana. Of course, it is not required and completely optional. 
 
 Your deck should look like this: 
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126711058233561108/forestcraft-deck.png">
+
+<h3> Setting Up </h3>
+
+- To start playing games on Cockatrice, you will need to an account. 
+    - If you need to register an account, click on "Cockatrice" and "Register to server". Enter a player name, password, email, and click OK. Afterward, accept the verification email to verify your account. 
+    - If you already have an account, click on "Cockatrice" and "Connect" to login. 
+-  Once logged in, click on the "Server" tab and select "Other Games" to find other players to play Shadowverse Evolve. 
+    - Because Cockatrice is an MTG-oriented program for online play, you won't be able to find Shadowverse Evolve players with open rooms at all unless you are either 1. extremely lucky, 2. my plugin became famous, or most likely 3. you asked a buddy to play.  #3 is how you'll get matches 99.9% of the time.  
+    - Quickest way to ask for games is to ask for games in the [Shadowverse Evolve](https://discord.gg/VeXh9TgF) server or other social media platforms.
+
+<h3> Playing the Game </h3>
+
+
 
 ## Helpful Tips
 - Yep, Cockatrice has built-in keyboard shortcuts you can press to heighten your play experience with the program.  Common ones include (for Windows users): 
