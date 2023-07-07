@@ -7,6 +7,7 @@
   <a href="#Download">Download</a> •
   <a href="#Updating">Updating</a> •
   <a href="#Optional-Steps">Optional Steps</a> •
+  <a href="#How-to-Use">How to Use</a> •
   <a href="#Helpful-Tips">Helpful Tips</a>
 </p>
 
@@ -36,7 +37,10 @@ Welcome to the guide on how to import a custom set XML file to Cockatrice. This 
 Congratulations! Shadowverse Evolve is now fully integrated into your Cockatrice program. Enjoy playing the game to the fullest!
 
 ## Updating
-When a new set of cards is out, you have redownload the xml file and repeat steps 1-5 to replace the old xml file in the "custom sets folder". 
+
+1. When a new set of cards is out, redownload the xml file.
+
+2. Repeat steps 1-6 to replace the old xml file in the "custom sets folder". 
 
 ## Optional Steps
 These steps are completely optional, but doing so improve your overall experience with the program. 
@@ -44,26 +48,31 @@ These steps are completely optional, but doing so improve your overall experienc
 **Dark Mode**
 Cockatrice's default is white mode. Of course, no one wants to blind their eyes while playing Shadowverse. This [dark mode](https://github.com/mingomongo/DarkMingo-Theme-for-Cockatrice) extension will change Cockatrice to be dark mode. 
 
-**Removing Magic the Gathering Cards**
-If you are only using Cockatrice for Shadowverse Evolve, it is recommended to remove/disable the Magic the Gathering cards to making finding Shadowverse cards easier. However, this is one of two ways to filter for Shadowverse cards. If you encounter any technical errors while doing this or seems too hard, there is a second method to filter for Shadowverse cards that is much more user friendly that will be explained in the Helpful Tips section.
+## How to Use
+**Finding Shadowverse Evolve Cards**
+When you open Cockatrice, there are will be Shadowverse Evolve and Magic: the Gathering cards into the lists of cards. No worries, we have that secured. On filters sections, click on the dropdown and select "Format". Type **Shadowverse** or **SV** to filter for only Shadowverse Evolve cards.
 
-1. In Cockatrice, head to Card Database -> Manage Sets. You should see a bunch of sets for Magic: the Gathering listed.
+**Making a Deck**
+- Cockatrice has two decks, the main deck and side deck. Thus, we will use the main deck for our main deck and use the the side deck for our evolve deck. 
+- To add cards to your deck, search for the card you want to add and double click on it. It will automatically add the card to the main deck. To move the card to your evolve deck, double click on the card from the main deck.
 
-2. Click "Disable all sets", then click a checkbox on exactly one Magic: the Gathering set in the set list to re-enable it. Make a note of what you enabled here.
-
-2. Close the "Manage Sets" window.
-
-3. Go back into Card Database, then "Open custom sets folder."
-
-4. In the same window, click the "Cockatrice" that is directly to the left of "customsets" in the address bar.
-
-5. Delete cards.xml
-
-6. Go to Card Database -> Manage Sets. Find the set you re-enabled in step 2 and disable it again. Close the window.
-
+Your deck should look like this: 
+<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126711058233561108/forestcraft-deck.png" height="1000">
 
 ## Helpful Tips
+- Yep, Cockatrice has built-in keyboard shortcuts you can press to heighten your play experience with the program.  Common ones include (for Windows users): 
+- Ctrl+D: Draw 1 card from deck
+- Ctrl+S: Shuffle deck
+- Ctrl+F3: View sideboard (for accessing your LRIG Deck)
+- Ctrl+E: Draw any number of cards from deck
+- Ctrl+W: Look at any number of cards on the top of your deck
 
+There's more than this, but knowing these should be enough to let your play speed and comfiness go way up.  If you want to know more shortcuts, right clicking on various areas and objects will show a menu of actions you can do, some showing their shortcut and others not having any.
+
+- Playing manually does give many perks however, especially when learning the game.  Developing good card movement habits, memorizing turn/phase order, and needing to socially interact with your opponent are but a few advantages that manual sims offer that automated ones do not nearly as easily.
+
+## Questions & Answers
+We will have the cards updated as quick as we can. Keep in mind that we are inputting the cards in the xml file manually as there is no API for Shadowverse Evolve card database. We continuously maintain and update this plugin, completely free of charge and for the benefit of the community.  If/when an update isn't coming as quickly as you want it, please be patient, life happens sometimes. 
 
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126354128101199913/mid_game.png" width="1000">
 
