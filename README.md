@@ -49,12 +49,13 @@ These steps are completely optional, but doing so improve your overall experienc
 Cockatrice's default is white mode. Of course, no one wants to blind their eyes while playing Shadowverse. This [dark mode](https://github.com/mingomongo/DarkMingo-Theme-for-Cockatrice) extension will change Cockatrice to be dark mode. 
 
 ## How to Use
-**Finding Shadowverse Evolve Cards**
+**Finding Shadowverse Evolve Cards** <br/>
 When you open Cockatrice, there are will be Shadowverse Evolve and Magic: the Gathering cards into the lists of cards. No worries, we have that secured. On filters sections, click on the dropdown and select "Format". Type **Shadowverse** or **SV** to filter for only Shadowverse Evolve cards.
 
 **Making a Deck**
 - Cockatrice has two decks, the main deck and side deck. Thus, we will use the main deck for our main deck and use the the side deck for our evolve deck. 
 - To add cards to your deck, search for the card you want to add and double click on it. It will automatically add the card to the main deck. To move the card to your evolve deck, double click on the card from the main deck.
+- It is recommended to add one Land card in the evolve deck to help keep track of used and unused mana. Of course, it is not required and completely optional. 
 
 Your deck should look like this: 
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126711058233561108/forestcraft-deck.png" height="1000">
