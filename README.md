@@ -30,7 +30,7 @@ Welcome to the comprehensive guide on importing *Shadowverse Evolve* to Cockatri
 
 4. In Cockatrice, navigate to "Card Database" and select "Manage Sets". From the dropdown menu, choose "Open custom sets folder".
 
-5. Locate the "ShadowverseEvolveTCG.xml" file you downloaded from the GitHub page. Move this file into the folder that was opened in the previous step.
+5. Locate the "ShadowverseEvolveTCG.xml" file you downloaded from the GitHub page. Move this file into the custom sets folder.
 
 6. Close Cockatrice completely, and then reopen it. You will see a prompt indicating that new sets are being added. It will ask if you want to enable them. Click "Yes" to enable the *Shadowverse Evolve* sets.
 
