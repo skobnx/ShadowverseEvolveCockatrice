@@ -13,7 +13,7 @@
 
 ---
 
-## *Shadowverse Evolve* Cockatrice
+## Shadowverse Evolve Cockatrice
 
 Welcome to the comprehensive guide on importing *Shadowverse Evolve* to Cockatrice and utilizing the program. This guide aims to assist you in seamlessly integrating the *Shadowverse Evolve* game with your Cockatrice program. Please carefully follow the step-by-step instructions provided below.
 
@@ -22,7 +22,7 @@ Welcome to the comprehensive guide on importing *Shadowverse Evolve* to Cockatri
 ## Download
 **Prerequisite:** Make sure you have [Cockatrice](https://cockatrice.github.io/) installed on your computer (Windows, Mac, Linux, etc). If not, download and install Cockatrice from the provided link.
 
-1. [Download](https://github.com/skobnx/ShadowverseEvolveCockatrice/archive/refs/heads/main.zip) the latest ShadowverseEvolveTCG.xml file by clicking the download link or the Forte banner.  
+1. [Download](https://github.com/skobnx/ShadowverseEvolveCockatrice/archive/refs/heads/main.zip) the latest "ShadowverseEvolveTCG.xml" file by clicking the download link or the Forte banner.  
 
 2. Unzip the zipped folder and look for the "ShadowverseEvolveTCG.xml" file in the list of files. Remember where you store the xml file for the next few steps. 
 
@@ -74,8 +74,8 @@ Your deck should look like this:
 - To start playing games on Cockatrice, you will need to an account. 
     - If you need to register an account, click on "Cockatrice" and "Register to server". Enter a player name, password, email, and click OK. Afterward, accept the verification email to verify your account. 
     - If you already have an account, click on "Cockatrice" and "Connect" to login. 
--  Once logged in, click on the "Server" tab and select "Other Games" to find other players to play *Shadowverse Evolve*. 
-- Once you enter the room, click "Load deck" on the top left corner to select the deck you want to use and "Ready to start".
+-  Once logged in, click on the "Server" tab and select "Other Games" to find other players to play. 
+- Once you enter the room, click "Load deck" on the top left corner to select the your deck and "Ready to start".
 
 <h3> Playing the Game </h3>
 
