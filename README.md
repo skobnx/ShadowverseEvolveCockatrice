@@ -72,11 +72,14 @@ Your deck should look like this:
     - If you already have an account, click on "Cockatrice" and "Connect" to login. 
 -  Once logged in, click on the "Server" tab and select "Other Games" to find other players to play Shadowverse Evolve. 
     - Because Cockatrice is an MTG-oriented program for online play, you won't be able to find Shadowverse Evolve players with open rooms at all unless you are either 1. extremely lucky, 2. my plugin became famous, or most likely 3. you asked a buddy to play.  #3 is how you'll get matches 99.9% of the time.  
-    - Quickest way to ask for games is to ask for games in the [Shadowverse Evolve](https://discord.gg/VeXh9TgF) server or other social media platforms.
+    - Quickest way to ask for games is to ask for games in the [Shadowverse Evolve](https://discord.gg/shadowverse-evolve-tcg-community-928746294384677004) server or other social media platforms.
 
 <h3> Playing the Game </h3>
 
-
+- Once you enter the room, click "Load deck" on the top left corner to select the deck you want to use and "Ready to start".
+- Right-click "Sideboard" to open your Evolve deck and put down your leader.
+- Draw four cards by double clicking the deck. You can perform mulligans by highlighting every card, right clicking "Bottom to the deck in random order", and drawing four new cards. 
+<img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126729079429800067/Mulligan.gif"> 
 
 ## Helpful Tips
 - Yep, Cockatrice has built-in keyboard shortcuts you can press to heighten your play experience with the program.  Common ones include (for Windows users): 
