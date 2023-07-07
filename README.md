@@ -2,8 +2,6 @@
     <a href="https://github.com/skobnx/ShadowverseEvolveCockatrice/archive/refs/heads/main.zip"><img src = "https://imgur.com/eWuWoF2.jpg" width="1000">
 </h1>
 
-<h4 align="center"> A Shadowverse Evolve extension for Cockatrice. </h4> 
-
 <p align="center">
   <a href="#Shadowverse-Evolve-Cockatrice">Shadowverse Evolve Cockatrice</a> •
   <a href="#Download">Download</a> •
