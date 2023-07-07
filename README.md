@@ -1,5 +1,5 @@
 <h1 align = "center">
-    <a href = "https://github.com/skobnx/ShadowverseEvolveCockatrice/raw/main/ShadowverseEvolveTCG.xml?dummy=dummy" download><img src = "https://imgur.com/eWuWoF2.jpg" width="1000">
+    <a href = "https://github.com/skobnx/ShadowverseEvolveCockatrice/raw/main/ShadowverseEvolveTCG.xml?dummy=dummy" download><img src = "https://imgur.com/eWuWoF2.jpg" width="1000"></a>
 </h1>
 
 <p align="center">
