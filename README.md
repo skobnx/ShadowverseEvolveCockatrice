@@ -1,19 +1,30 @@
+<h1 align = "center">
+    <a href="https://github.com/skobnx/ShadowverseEvolveCockatrice/archive/refs/heads/main.zip"><img src = "https://imgur.com/eWuWoF2.jpg" width="1000">
+</h1>
 
-<img src = "https://imgur.com/eWuWoF2.jpg" width="1000">
+<p align="center">
+  <a href="#Shadowverse Evolve Cockatrice">Shadowverse Evolve Cockatrice</a> •
+  <a href="#Download">Download</a> •
+  <a href="#Updating">Updating</a> •
+  <a href="#Optional Steps">Optional Steps</a> •
+  <a href="#Helpful Tips">Helpful Tips</a>
+</p>
 
-# Shadowverse Evolve Cockatrice
+---
 
-Welcome to the guide on how to import a custom set XML file to Cockatrice. This guide will help you seamlessly integrate the Shadowverse Evolve game into your Cockatrice program. Please follow the step-by-step instructions below:
+## Shadowverse Evolve Cockatrice
+
+Welcome to the guide on how to import a custom set XML file to Cockatrice. This guide will help you seamlessly integrate the Shadowverse Evolve game into your Cockatrice program. Please follow the step-by-step instructions below.
 
 **Disclaimer:** Please note that we do not own any rights to the Shadowverse franchise. This package is a compilation of publicly available information and is intended solely for personal enjoyment without any profit motive.
 
-# Prerequisite
+## Download
+**Prerequisite**
 - Make sure you have [Cockatrice](https://cockatrice.github.io/) installed on your computer (Windows, Mac, Linux, etc). If not, download and install Cockatrice from the provided link.
 
-# Download
-1. This GitHub webpage contains the Shadowverse Evolve cockatrice plugin. Download it by selecting on the green **<> Code** and "Download ZIP".  
+1. [Download](https://github.com/skobnx/ShadowverseEvolveCockatrice/archive/refs/heads/main.zip) the latest ShadowverseEvolveTCG.xml file.  
 
-2. Unzip the zipped folder and look for the "ShadowverseEvolveTCG.xml" file in the list of files. Remember where you store it for the next few steps. 
+2. Unzip the zipped folder and look for the "ShadowverseEvolveTCG.xml" file in the list of files. Remember where you store the xml file for the next few steps. 
 
 3. Open the Cockatrice program. If a prompt appears indicating that it will run Oracle, allow it to do so.
 
@@ -25,7 +36,10 @@ Welcome to the guide on how to import a custom set XML file to Cockatrice. This 
 
 Congratulations! Shadowverse Evolve is now fully integrated into your Cockatrice program. Enjoy playing the game to the fullest!
 
-# Optional Steps
+## Updating
+When a new set of cards is out, you have redownload the xml file and repeat steps 1-5 to replace the old xml file in the "custom sets folder". 
+
+## Optional Steps
 These steps are completely optional, but doing so improve your overall experience with the program. 
 
 **Dark Mode**
@@ -49,7 +63,7 @@ If you are only using Cockatrice for Shadowverse Evolve, it is recommended to re
 6. Go to Card Database -> Manage Sets. Find the set you re-enabled in step 2 and disable it again. Close the window.
 
 
-# Helpful Tips
+## Helpful Tips
 
 
 <img src = "https://cdn.discordapp.com/attachments/480908885956362242/1126354128101199913/mid_game.png" width="1000">
