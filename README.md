@@ -28,7 +28,7 @@ Welcome to the comprehensive guide on importing *Shadowverse Evolve* to Cockatri
 
 3. Open the Cockatrice program. If a prompt appears indicating that it will run Oracle, allow it to do so.
 
-4. In Cockatrice, navigate to "Card Database" and select "Manage Sets". From the dropdown menu, choose "Open custom sets folder".
+4. In Cockatrice, navigate to "Card Database" and select "Open custom sets folder".
 
 5. Locate the "ShadowverseEvolveTCG.xml" file you downloaded from the GitHub page. Move this file into the custom sets folder.
 
