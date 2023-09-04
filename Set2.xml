@@ -1,44 +1,9 @@
 <cockatrice_carddatabase version="4">
 	<sets>
-		<set>
-			<name>BP01</name>
-			<longname>BP01 Advent of Genesis</longname>
-			<settype>Expansion</settype>
-		</set>
         <set>
 			<name>BP02</name>
 			<longname>BP02 Reign of Bahamut</longname>
 			<settype>Expansion</settype>
-		</set>
-		<set>
-			<name>SD01</name>
-			<longname>SD01 Regal Fairy Princess</longname>
-			<settype>Starter</settype>
-		</set>
-		<set>
-			<name>SD02</name>
-			<longname>SD02 Blade of Resentment</longname>
-			<settype>Starter</settype>
-		</set>
-		<set>
-			<name>SD03</name>
-			<longname>SD03 Mysteries of Conjuration</longname>
-			<settype>Starter</settype>
-		</set>
-		<set>
-			<name>SD04</name>
-			<longname>SD04 Wrath of the Greatwyrm</longname>
-			<settype>Starter</settype>
-		</set>
-		<set>
-			<name>SD05</name>
-			<longname>SD05 Waltz of the Undying Night</longname>
-			<settype>Starter</settype>
-		</set>
-		<set>
-			<name>SD06</name>
-			<longname>SD06 Maculate Ablution</longname>
-			<settype>Starter</settype>
 		</set>
 	</sets>
 	<cards>
@@ -66,7 +31,7 @@ Fanfare: [Combo_3] Put a "Crystalia Eve" into the field.</text>
 			<tablerow>2</tablerow>
 			<text>[Evolve]: Choose one of your "Crystalia Eve." It gets +1/+1 and gains [Rush].</text>
 			<prop>
-				<type>Follower|Forestcraft - Crystalia / Princess</type>
+				<type>Follower|Evolve|Forestcraft - Crystalia / Princess</type>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -142,7 +107,7 @@ Fanfare: [Combo_4] Choose an enemy follower. Deal 5 damage to it.</text>
 			<tablerow>2</tablerow>
 			<text>[Evolve]: Choose a card in an enemy field with cost 3 or less. Destroy it.</text>
 			<prop>
-				<type>Follower|Forestcraft - Hunter</type>
+				<type>Follower|Evolve|Forestcraft - Hunter</type>
 				<pt>4/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -171,7 +136,7 @@ Fanfare: Look at the top 2 cards of your deck. You may reveal a Crystalia follow
 			<tablerow>2</tablerow>
 			<text>[Evolve]: Choose an enemy follower. Its player puts it on the bottom of the deck.</text>
 			<prop>
-				<type>Follower|Forestcraft - Crystalia</type>
+				<type>Follower|Evolve|Forestcraft - Crystalia</type>
 				<pt>2/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -261,7 +226,7 @@ Fanfare: This card gets +X/+0. X is the number of cards in your EX Area.</text>
 			<text>[Ward]
 [Evolve]: Choose an enemy follower. Deal damage to it equal to "this card's attack".</text>
 			<prop>
-				<type>Follower|Forestcraft - Spirit / Giant</type>
+				<type>Follower|Evolve|Forestcraft - Spirit / Giant</type>
 				<pt>3/7</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -315,6 +280,770 @@ Fanfare: Put a "Thorn Burst" into your EX Area.</text>
 				<format-sv>legal</format-sv>
 			</prop>
 		</card>
-
+		<!-- Swordcraft -->
+		<card>
+			<name>Albert, Levin Saber</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_018.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (3): Evolve this card. 
+[Storm]</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Swordcraft - Commander / Levin</type>
+				<pt>3/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Albert, Levin Saber (Evolved)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_019.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Storm] 
+[Strike]: Stand this card. This ability can only be used once per turn. 
+[Evolve]: This card takes no clash damage this turn. </text>
+			<prop>
+				<type>Follower|Evolve|Swordcraft - Commander / Levin</type>
+				<pt>3/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Alexander</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_020.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Rush] [Assail] 
+During your turn, whenever this card deals clash damage, stand this card.</text>
+			<prop>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<type>Follower|Swordcraft - Commander</type>
+				<pt>5/9</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Amelia, Silver Paladin</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_021.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Fanfare: Choose 1 of the following: [1] Choose a follower in your hand with cost 3 or less. Put it into the field. [2] Choose an enemy follower. Deal 4 damage to it.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Swordcraft - Commander</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Leonidas</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_022.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (1): Evolve this card.</text>
+			<prop>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<type>Follower|Swordcraft - Commander</type>
+				<pt>5/6</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Leonidas (Evolved)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_023.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Evolve]: Choose an enemy follower. Deal 5 damage to it and to this card. 
+Last Words: Put a "Leonidas's Resolve" into the field.</text>
+			<prop>
+				<type>Follower|Evolve|Swordcraft - Commander</type>
+				<pt>6/7</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>White Paladin</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_024.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Ward] 
+Activate: [2 PP and act this card]: Put 2 "Shield Guardian" into the field.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Swordcraft - Commander</type>
+				<pt>3/4</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Jeno, Levin Vanguard</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_025.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (1): Evolve this card.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Swordcraft - Officer / Levin</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Jeno, Levin Vanguard (Evolved)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_026.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Assail]
+[Evolve]: Look at the top 4 cards of your deck. You may reveal a "Levin follower with a different name than this card" from among them and add it to your hand. Put the rest on the bottom of your deck in any order.</text>
+			<prop>
+				<type>Follower|Evolve|Swordcraft - Officer / Levin</type>
+				<pt>4/4</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Yurius, Levin Duke</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_027.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Quick/Activate: [Act this card]: Choose an enemy follower. Deal 1 damage to it.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Swordcraft - Aristocrat / Levin</type>
+				<pt>0/4</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Whole-Souled Swing</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_028.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Quick] 
+Choose an enemy follower. Deal 3 damage to it. Put a "Knight" into your EX Area.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Spell|Swordcraft - Officer</type>
+				<maintype>Spell</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Swift Infiltrator</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_029.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Whenever one of your followers Evolves, this gets +1/+1.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Swordcraft - Officer</type>
+				<pt>2/2</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Samurai</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_030.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Activate: [3 PP]: This gains [Storm] and [Bane].</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Swordcraft - Officer</type>
+				<pt>3/2</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Avant Blader</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_031.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (1): Evolve this card.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Swordcraft - Commander</type>
+				<pt>4/4</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Avant Blader (Evolved)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_032.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Evolve]: Search your deck for up to 2 <Officer> followers and add them to your hand.</text>
+			<prop>
+				<type>Follower|Evolve|Swordcraft - Commander</type>
+				<pt>5/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Flame Soldier</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_033.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Fanfare: Choose an enemy follower. Deal 1 damage to it. If one of your followers was destroyed this turn, deal 4 damage instead.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Swordcraft - Officer / Heroic</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Gunner Maid Seria</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_034.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Fanfare: Search your deck for a Princess follower and add it to your hand.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Swordcraft - Officer / Maid</type>
+				<pt>1/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<!--Runecraft-->
+		<card>
+			<name>Daria, Dimensional Witch</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_035.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (1): Evolve this card. 
+As long as this is in the field, when counting for [Spellchain], count the total number of spells and Witch followers in your graveyard. 
+Fanfare: Discard all cards from your hand. Put the top card of your deck into your EX Area. Repeat this process until your EX Area is full.</text>
+			<prop>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<type>Follower|Runecraft - Sorcerer</type>
+				<pt>5/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Daria, Dimensional Witch</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_036.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>As long as this is in the field, when counting for [Spellchain], count the total number of spells and Witch followers in your graveyard. 
+[Evolve]: Choose a follower in your EX Area. When you play it this turn, subtract 5 from its cost. 
+[Evolve]: Choose a spell in your EX Area. When you play it this turn, subtract 5 from its cost.</text>
+			<prop>
+				<type>Follower|Evolve|Runecraft - Sorcerer</type>
+				<pt>6/6</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Sun Oracle Pascale</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_037.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Fanfare: Put a "Magic Sediment" into the field. 
+Quick/Activate: [Act this card] and [Earth Rite]: Choose an enemy follower. It gets -2/-2. 
+Quick/Activate: [Act this card] and [Earth Rite]: Choose one of your own followers. It gets +2/+2.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Runecraft - Sorcerer / Dancer</type>
+				<pt>3/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Anne, Belle of Mysteria</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_038.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>When you play this, if a "Grea the Dragonborn" is in your field, subtract 2 from this carrd cost. 
+Evolve (1): Evolve this card.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Runecraft - Sorcerer / Academy</type>
+				<pt>4/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Anne, Belle of Mysteria (Evolved)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_039.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Evolve]: Search your deck for an Academy follower with a different name than this card and add it to your hand.</text>
+			<prop>
+				<type>Follower|Evolve|Runecraft - Sorcerer / Academy</type>
+				<pt>4/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Grea the Dragonborn</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_040.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>When you play this, if an "Anne, Belle of Mysteria" is in your field, subtract 2 from this card cost.
+Activate: [Act this card]: Choose an enemy follower. Deal 3 damage to it. If an "Anne, Belle of Mysteria" is in your field, deal 6 damage instead</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Runecraft - Sorcerer / Academy</type>
+				<pt>5/4</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Rimewind</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_041.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Quick] Choose an enemy unevolved follower. Return it to hand. [Spellchain_10] Put it on the top of deck instead.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Spell|Runecraft - Sorcerer</type>
+				<maintype>Spell</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Remi & Rami, Witchy Duo</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_042.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (1): Evolve this card.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Runecraft - Sorcerer / Alchemist</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Remi & Rami, Witchy Duo (Evolved)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_043.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Evolve]: Put a "Strikeform Golem" into the field. [Earth Rite] Give it +2/+0.</text>
+			<prop>
+				<type>Follower|Evolve|Runecraft - Sorcerer / Alchemist</type>
+				<pt>4/4</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Shadow Witch</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_044.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Fanfare: [Earth Rite] Choose an enemy follower. Banish it.</text>
+			<prop>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<type>Follower|Runecraft - Sorcerer / Alchemist</type>
+				<pt>5/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Multipart Experiment</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_045.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Choose up to 2 of the following [Spellchain_10] Choose up to 3 instead: 
+[1] Choose an enemy follower. Deal 3 damage to it. [2] Put a "Guardform Golem" into the field. [3] Draw a card. </text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Spell|Runecraft - Golem</type>
+				<maintype>Spell</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Craig, Wizard of Mysteria</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_046.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (1): Evolve this card. Fanfare: Draw a card. Discard a card from your hand.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Runecraft - Sorcerer / Academy</type>
+				<pt>2/1</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Craig, Wizard of Mysteria (Evolved)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_047.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Evolve]: Draw a card. Discard a card from your hand.</text>
+			<prop>
+				<type>Follower|Evolve|Runecraft - Sorcerer / Academy</type>
+				<pt>3/2</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Grand Gargoyle</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_048.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Ward]
+Last Words: Add 2 to a [Stack] in your field.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Runecraft - Golem</type>
+				<pt>3/4</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Witchbolt</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_049.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Choose an enemy follower. Deal 5 damage to it. If there is an Evolved follower in your field, draw a card.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Spell|Runecraft - Sorcerer</type>
+				<maintype>Spell</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Magical Strategy</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_050.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Put a "Magical Pawn" into the field.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Spell|Runecraft - Sorcerer / Chess</type>
+				<maintype>Spell</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Red-Hot Ritual</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_051.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Stack] 
+Fanfare: Choose an enemy follower. Deal 3 damage to it.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Amulet|Runecraft - Earth Sigil</type>
+				<maintype>Amulet</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<!-- Dragoncraft -->
+		<card>
+			<name>Imperial Dragoon</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_052.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (1): Evolve this card. 
+Fanfare: Deal damage equal "the number of cards in your hand" to all enemy leaders and all enemy followers. Discard all cards from your hand.</text>
+			<prop>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<type>Follower|Dragoncraft - Dragon Rider</type>
+				<pt>6/6</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Imperial Dragoon (Evolved)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_053.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve: Draw 3 cards.</text>
+			<prop>
+				<type>Follower|Evolve|Dragoncraft - Dragon Rider</type>
+				<pt>7/7</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Dragonsong Flute</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_054.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>When you discard this from your hand, put a "Hellflame Dragon" into your EX Area.
+----------
+Fanfare: [3 PP]: Put a "Hellflame Dragon" into the field. Draw a card. Activate: [Act this amulet and discard a card from your hand]: Put a "Hellflame Dragon" into your EX Area. Use this ability only if [Overflow] is active for you.</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Amulet|Dragoncraft - Dragon Rider</type>
+				<maintype>Amulet</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Neptune</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_055.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (2): Evolve this card. 
+[Ward] 
+As long as this is in the field, all your "Megalorca" have [Rush]. 
+Fanfare: Put a "Megalorca" into the field.</text>
+			<prop>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<type>Follower|Dragoncraft - Dragon Rider / Marine</type>
+				<pt>4/4</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Neptune (Evolved)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_056.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Ward] 
+As long as this is in the field, all your "Megalorca" have [Storm]. 
+[Evolve]: Put a "Megalorca" into the field. </text>
+			<prop>
+				<type>Follower|Evolve|Dragoncraft - Dragon Rider / Marine</type>
+				<pt>5/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Draconic Fervor</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_057.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Increase your max PP by 1. Add 3 to your leader's health. Draw a card.</text>
+			<prop>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<type>Spell|Dragoncraft - Dragonewt</type>
+				<maintype>Spell</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Polyphonic Roar</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_058.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Once during each of your turns, when a "Dragon" enters your field, choose an enemy leader or an enemy follower. Deal 5 damage to it.</text>
+			<prop>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<type>Amulet|Dragoncraft - Dragon</type>
+				<maintype>Amulet</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Siegfried</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_059.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (1): Evolve this card. 
+Fanfare: Choose an enemy follower. Deal 2 damage to it.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Dragoncraft - Dragon / Killer</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Siegfried (Evolved)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_060.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Evolve]: Choose an enemy follower with 3 or less health. Destroy it.</text>
+			<prop>
+				<type>Follower|Evolve|Dragoncraft - Dragon / Killer</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Transmogrified Wyrm</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_061.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Fanfare: Choose a card in any EX Area. Transform it into a "Dragon."</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Dragoncraft - Dragon</type>
+				<pt>5/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Dracomancer's Rites</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_062.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>At the start of your end phase, if you discarded a card from your hand this turn, choose an enemy leader or an enemy follower. Deal 2 damage to it. 
+Fanfare: [Discard a card from your hand]: Add 1 to your leader's health.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Amulet|Dragoncraft - Dragon Rider</type>
+				<maintype>Amulet</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Wildfang Dragonewt</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_063.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>When you play this, if you discarded a card from your hand this turn, subtract 2 from its cost.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Dragoncraft - Dragonewt</type>
+				<pt>4/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Mushussu</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_064.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Whenever one of your followers Evolves, this gets +2/+0.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Dragoncraft - Dragonewt</type>
+				<pt>2/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Dragontamer</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_065.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (1): Evolve this card. 
+Fanfare: Draw a card. Discard a card from your hand.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Dragoncraft - Dragon Rider</type>
+				<pt>2/2</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Dragontamer (Evolved)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_066.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Evolve]: [Discard a card from your hand]: Choose a <Dragon> follower in your graveyard. Add it to your hand.</text>
+			<prop>
+				<type>Follower|Evolved|Dragoncraft - Dragon Rider</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Twin-Headed Dragon</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_067.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>"Attack damage dealt to leaders" and "clash damage" of this card are doubled. 
+Fanfare: [3 PP]: Put a "Dragon" into the field.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Dragoncraft - Dragon</type>
+				<pt>2/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Draconic Armor</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_068.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Put a "Draconic Weapon" into the field. If [Overflow] is active for you, put 2 instead.</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Spell|Dragoncraft - Dragon / Armed</type>
+				<maintype>Spell</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		
 	</cards>
 </cockatrice_carddatabase>

@@ -21,6 +21,47 @@
 				<format-sv>legal</format-sv>
 			</prop>
 		</card>
-
+		<card>
+			<name>Amelia, Silver Paladin (U)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_u02.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Fanfare: Choose 1 of the following: [1] Choose a follower in your hand with cost 3 or less. Put it into the field. [2] Choose an enemy follower. Deal 4 damage to it.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Swordcraft - Commander</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Anne, Belle of Mysteria (Evolved) (U)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_u03.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Evolve]: Search your deck for an Academy follower with a different name than this card and add it to your hand.</text>
+			<prop>
+				<type>Follower|Evolve|Runecraft - Sorcerer / Academy</type>
+				<pt>4/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Imperial Dragoon (Evolved)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_u04.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve: Draw 3 cards.</text>
+			<prop>
+				<type>Follower|Evolve|Dragoncraft - Dragon Rider</type>
+				<pt>7/7</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		
 	</cards>
 </cockatrice_carddatabase>

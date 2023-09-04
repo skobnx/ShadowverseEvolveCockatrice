@@ -1,11 +1,6 @@
 <cockatrice_carddatabase version="4">
 	<sets>
 		<set>
-			<name>BP01</name>
-			<longname>BP01 Advent of Genesis</longname>
-			<settype>Expansion</settype>
-		</set>
-		<set>
 			<name>SD01</name>
 			<longname>SD01 Regal Fairy Princess</longname>
 			<settype>Starter</settype>
@@ -34,6 +29,16 @@
 			<name>SD06</name>
 			<longname>SD06 Maculate Ablution</longname>
 			<settype>Starter</settype>
+		</set>
+		<set>
+			<name>BP01</name>
+			<longname>BP01 Advent of Genesis</longname>
+			<settype>Expansion</settype>
+		</set>
+		<set>
+			<name>BP02</name>
+			<longname>BP02 Reign of Bahamut</longname>
+			<settype>Expansion</settype>
 		</set>
 	</sets>
 	<cards>
@@ -2002,7 +2007,7 @@ Select an enemy follower on the field and deal it 2 damage.
 				<format-sv>legal</format-sv>
 			</prop>
 		</card>
-				<!-- SD06 Leaders -->
+		<!-- SD06 Leaders -->
 		<card>
 			<name>Eris </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/SD06/SD06-LD01EN.png">SD06</set>
@@ -2046,6 +2051,7 @@ Select an enemy follower on the field and deal it 2 damage.
 			</prop>
 		</card>
 		<!-- BP01 Main -->
+		<!-- Forestcraft -->
 		<card>
 			<name>Rose Queen </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-001EN.png">BP01</set>
@@ -2424,6 +2430,7 @@ Select an enemy follower on the field. It cannot deal damage this turn.</text>
 				<format-sv>legal</format-sv>
 			</prop>
 		</card>
+		<!-- Swordcraft -->
 		<card>
 			<name>Sea Queen Otohime </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-026EN.png">BP01</set>
@@ -2797,6 +2804,7 @@ Select a follower on your field. Give it +1/+1 and draw a card.</text>
 				<format-sv>legal</format-sv>
 			</prop>
 		</card>
+		<!-- Runecraft -->
 		<card>
 			<name>Arch Summoner Erasmus </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-051EN.png">BP01</set>
@@ -3175,6 +3183,7 @@ Select an enemy follower on the field and destroy it. Spellchain (10): Deal 3 da
 				<format-sv>legal</format-sv>
 			</prop>
 		</card>
+		<!-- Dragoncraft -->
 		<card>
 			<name>Dark Dragoon Forte </name>
 			<set picURL="https://en.shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP01/BP01-076EN.png">BP01</set>

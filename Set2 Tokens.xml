@@ -16,12 +16,100 @@
 			<prop>
 				<manacost>4</manacost>
 				<cmc>4</cmc>
-				<type>Follower|Token|Forestcraft</type>
+				<type>Follower|Token|Forestcraft - Elf</type>
+				<pt>4/4</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
 		</card>
-
+		<card>
+			<name>Shield Guardian </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_t02.png">BP02</set>
+			<tablerow>0</tablerow>
+			<text>[Ward]</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Follower|Token|Swordcraft - Officer</type>
+				<pt>1/1</pt>
+				<maintype>Follower|Token</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Leonidas's Resolve </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_t03.png">BP02</set>
+			<tablerow>0</tablerow>
+			<text>Whenever a Royal follower enters your field, it gets +3/+3 and gains [Rush].</text>
+			<prop>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
+				<type>Amulet|Token|Swordcraft - Commander</type>
+				<maintype>Amulet|Token</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Magical Pawn </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_t04.png">BP02</set>
+			<tablerow>0</tablerow>
+			<text></text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Follower|Token|Runecraft - Chess</type>
+				<pt>1/1</pt>
+				<maintype>Follower|Token</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Megalorca </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_t05.png">BP02</set>
+			<tablerow>0</tablerow>
+			<text></text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Token|Dragoncraft - Marine</type>
+				<pt>2/2</pt>
+				<maintype>Follower|Token</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Hellflame Dragon </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_t06.png">BP02</set>
+			<tablerow>0</tablerow>
+			<text>[Rush]</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Token|Dragoncraft - Dragon</type>
+				<pt>4/3</pt>
+				<maintype>Follower|Token</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Draconic Weapon </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_t07.png">BP02</set>
+			<tablerow>0</tablerow>
+			<text>Activate: [act this card and put it into graveyard]: Choose one of your Dragon followers. It gets +0/+1 and gains the Armed trait."</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Amulet|Token|Dragoncraft - Armed</type>
+				<maintype>Amulet|Token</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
 	</cards>
 </cockatrice_carddatabase>
