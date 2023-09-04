@@ -1,0 +1,26 @@
+<cockatrice_carddatabase version="4">
+	<sets>
+        <set>
+			<name>BP02</name>
+			<longname>BP02 Reign of Bahamut</longname>
+			<settype>Expansion</settype>
+		</set>
+	</sets>
+	<cards>
+		<!-- BP02 UR -->
+       <card>
+			<name>Crystalia Tia (Evolved) </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_u01.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Evolve]: Choose one of your "Crystalia Eve." It gets +1/+1 and gains [Rush].</text>
+			<prop>
+				<type>Follower|Forestcraft - Crystalia / Princess</type>
+				<pt>2/2</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+
+	</cards>
+</cockatrice_carddatabase>

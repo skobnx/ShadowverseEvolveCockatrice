@@ -1,0 +1,320 @@
+<cockatrice_carddatabase version="4">
+	<sets>
+		<set>
+			<name>BP01</name>
+			<longname>BP01 Advent of Genesis</longname>
+			<settype>Expansion</settype>
+		</set>
+        <set>
+			<name>BP02</name>
+			<longname>BP02 Reign of Bahamut</longname>
+			<settype>Expansion</settype>
+		</set>
+		<set>
+			<name>SD01</name>
+			<longname>SD01 Regal Fairy Princess</longname>
+			<settype>Starter</settype>
+		</set>
+		<set>
+			<name>SD02</name>
+			<longname>SD02 Blade of Resentment</longname>
+			<settype>Starter</settype>
+		</set>
+		<set>
+			<name>SD03</name>
+			<longname>SD03 Mysteries of Conjuration</longname>
+			<settype>Starter</settype>
+		</set>
+		<set>
+			<name>SD04</name>
+			<longname>SD04 Wrath of the Greatwyrm</longname>
+			<settype>Starter</settype>
+		</set>
+		<set>
+			<name>SD05</name>
+			<longname>SD05 Waltz of the Undying Night</longname>
+			<settype>Starter</settype>
+		</set>
+		<set>
+			<name>SD06</name>
+			<longname>SD06 Maculate Ablution</longname>
+			<settype>Starter</settype>
+		</set>
+	</sets>
+	<cards>
+        <!-- BP02 Main -->
+		<!-- Forestcraft -->
+		<card>
+			<name>Crystalia Tia </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_001.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (1): Evolve this card. 
+Fanfare: [Combo_3] Put a "Crystalia Eve" into the field.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Forestcraft - Crystalia / Princess</type>
+				<pt>1/1</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Crystalia Tia (Evolved) </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_002.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Evolve]: Choose one of your "Crystalia Eve." It gets +1/+1 and gains [Rush].</text>
+			<prop>
+				<type>Follower|Forestcraft - Crystalia / Princess</type>
+				<pt>2/2</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>White Wolf of Eldwood </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_003.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Storm] 
+Last Words: Look at the top 4 cards of your deck. You may put a Elf follower from among them into the field. Put the rest on the bottom of your deck in any order.</text>
+			<prop>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<type>Follower|Forestcraft - Spirit / Beast</type>
+				<pt>4/4</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Elf Girl Liza </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_004.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>As long as this is in the field, subtract 1 from "damage dealt to your followers by enemy spells and abilities".</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Forestcraft - Elf</type>
+				<pt>2/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Elf Knight Cynthia </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_005.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Rush]
+[Strike]: [Banish a card in your EX area]: Choose an enemy leader or an enemy follower. Deal 2 damage to it. Put 2 "Fairy" into the field.</text>
+			<prop>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<type>Follower|Forestcraft - Elf</type>
+				<pt>5/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Grand Archer Selwyn </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_006.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (1): Evolve this card. 
+Fanfare: [Combo_4] Choose an enemy follower. Deal 5 damage to it.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Forestcraft - Hunter</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Grand Archer Selwyn (Evolved) </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_007.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Evolve]: Choose a card in an enemy field with cost 3 or less. Destroy it.</text>
+			<prop>
+				<type>Follower|Forestcraft - Hunter</type>
+				<pt>4/4</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Crystalia Lily </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_008.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (2): Evolve this card. 
+Fanfare: Look at the top 2 cards of your deck. You may reveal a Crystalia follower or a Fairy follower from among them and add it to your hand. Put the rest on the bottom of your deck in any order.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Forestcraft - Crystalia</type>
+				<pt>1/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Crystalia Lily (Evolved)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_009.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Evolve]: Choose an enemy follower. Its player puts it on the bottom of the deck.</text>
+			<prop>
+				<type>Follower|Forestcraft - Crystalia</type>
+				<pt>2/4</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Baalt, King of the Elves</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_010.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Fanfare: Choose 1 of the following: [1] Choose one of your Fairy followers. It gets +2/+2. [2] Search your deck for a Fairy follower and add it to your hand.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Forestcraft - Elf</type>
+				<pt>3/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Elven Archery</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_011.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Choose up to 2 enemy followers. Deal 1 damage to each. [Combo_3] Deal 2 damage instead.</text>
+			<prop>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<type>Spell|Forestcraft - Elf</type>
+				<maintype>Spell</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Dwarf Perfurmer</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_012.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Whenever another one of your followers Evolves, choose an enemy follower. Deal 2 damage to it.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Forestcraft - Elf</type>
+				<pt>2/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Elf Healer</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_013.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Fanfare: Add 3 to your leader's health.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Follower|Forestcraft - Elf</type>
+				<pt>1/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Forest Gigas</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_014.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Evolve (1): Evolve this card. 
+[Ward] 
+Fanfare: This card gets +X/+0. X is the number of cards in your EX Area.</text>
+			<prop>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<type>Follower|Forestcraft - Spirit / Giant</type>
+				<pt>1/7</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Forest Gigas (Evolved)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_015.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Ward]
+[Evolve]: Choose an enemy follower. Deal damage to it equal to "this card's attack".</text>
+			<prop>
+				<type>Follower|Forestcraft - Spirit / Giant</type>
+				<pt>3/7</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Elf Bard</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_016.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Whenever one of your followers Evolves, put a "Fairy Wisp" into your EX Area.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Forestcraft - Elf</type>
+				<pt>2/2</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Rose Deer</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_017.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Rush] 
+Fanfare: Put a "Thorn Burst" into your EX Area.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Forestcraft - Spirit / Plantfolk</type>
+				<pt>4/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Rose Deer</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_017.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>[Rush] 
+Fanfare: Put a "Thorn Burst" into your EX Area.</text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Forestcraft - Spirit / Plantfolk</type>
+				<pt>4/3</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+
+	</cards>
+</cockatrice_carddatabase>

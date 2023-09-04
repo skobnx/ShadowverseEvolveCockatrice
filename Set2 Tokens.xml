@@ -1,0 +1,27 @@
+<cockatrice_carddatabase version="4">
+	<sets>
+        <set>
+			<name>BP02</name>
+			<longname>BP02 Reign of Bahamut</longname>
+			<settype>Expansion</settype>
+		</set>
+	</sets>
+	<cards>
+		<!-- BP02 Tokens -->
+        <card>
+			<name>Crystalia Eve </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_t01.png">BP02</set>
+			<tablerow>0</tablerow>
+			<text></text>
+			<prop>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<type>Follower|Token|Forestcraft</type>
+				<maintype>Follower|Token</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+
+	</cards>
+</cockatrice_carddatabase>
