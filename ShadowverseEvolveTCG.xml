@@ -6316,7 +6316,7 @@ Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy fol
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
-				<type>Follower|Nightmare - Vampire / Princess</type>
+				<type>Follower|Abysscraft - Vampire / Princess</type>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6333,7 +6333,7 @@ Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy fol
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
-				<type>Follower|Nightmare - Vampire / Princess</type>
+				<type>Follower|Abysscraft - Vampire / Princess</type>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6350,7 +6350,7 @@ Fanfare: Deal 3 damage to your leader.</text>
 			<prop>
 				<manacost>4</manacost>
 				<cmc>4</cmc>
-				<type>Follower|Nightmare - Demon World</type>
+				<type>Follower|Abysscraft - Demon World</type>
 				<pt>6/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6364,7 +6364,7 @@ Fanfare: Deal 3 damage to your leader.</text>
 			<text>[Ward]
 [Evolve]: Choose an enemy follower. Destroy it. Add X to your leader's health. X is "the chosen follower's attack".</text>
 			<prop>
-				<type>Follower|Evolve|Nightmare - Demon World</type>
+				<type>Follower|Evolve|Abysscraft - Demon World</type>
 				<pt>7/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6380,7 +6380,7 @@ Last Words: Choose an enemy follower. Destroy it. Add X to your leader's health.
 			<prop>
 				<manacost>5</manacost>
 				<cmc>5</cmc>
-				<type>Follower|Nightmare - Necromancer</type>
+				<type>Follower|Abysscraft - Necromancer</type>
 				<pt>5/5</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6398,7 +6398,7 @@ Fanfare: Each enemy leader discards a random card from hands.</text>
 			<prop>
 				<manacost>7</manacost>
 				<cmc>7</cmc>
-				<type>Follower|Nightmare - Demon World</type>
+				<type>Follower|Abysscraft - Demon World</type>
 				<pt>6/6</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6412,7 +6412,7 @@ Fanfare: Each enemy leader discards a random card from hands.</text>
 			<text>[Bane]
 [Evolve]: Change the health of each enemy leader to 10.</text>
 			<prop>
-				<type>Follower|Evolve|Nightmare - Demon World</type>
+				<type>Follower|Evolve|Abysscraft - Demon World</type>
 				<pt>7/7</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6428,7 +6428,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<prop>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
-				<type>Amulet|Nightmare - Vampire</type>
+				<type>Amulet|Abysscraft - Vampire</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -6444,7 +6444,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<prop>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
-				<type>Amulet|Nightmare - Vampire</type>
+				<type>Amulet|Abysscraft - Vampire</type>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -6459,7 +6459,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
-				<type>Follower|Nightmare - Vampire</type>
+				<type>Follower|Abysscraft - Vampire</type>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6473,7 +6473,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<text>[Strike]: Put a "Forest Bat" into the field.
 [Evolve]: Put a "Forest Bat" into your EX Area.</text>
 			<prop>
-				<type>Follower|Evolve|Nightmare - Vampire</type>
+				<type>Follower|Evolve|Abysscraft - Vampire</type>
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6488,7 +6488,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
-				<type>Follower|Nightmare - Undead</type>
+				<type>Follower|Abysscraft - Undead</type>
 				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6503,7 +6503,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
-				<type>Spell|Nightmare - Vampire</type>
+				<type>Spell|Abysscraft - Vampire</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -6518,7 +6518,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
-				<type>Spell|Nightmare - Vampire</type>
+				<type>Spell|Abysscraft - Vampire</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -6532,7 +6532,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
-				<type>Follower|Nightmare - Demon World</type>
+				<type>Follower|Abysscraft - Demon World</type>
 				<pt>3/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6547,7 +6547,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<prop>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
-				<type>Follower|Nightmare - Demon World</type>
+				<type>Follower|Abysscraft - Demon World</type>
 				<pt>3/4</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6563,7 +6563,7 @@ At the start of your end phase, if [Crimson] is active for you, draw a card, the
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
-				<type>Follower|Nightmare - Demon World</type>
+				<type>Follower|Abysscraft - Demon World</type>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6577,7 +6577,7 @@ At the start of your end phase, if [Crimson] is active for you, draw a card, the
 			<text>[Strike]: Deal 1 damage to all leaders. 
 At the start of your end phase, if [Crimson] is active for you, draw a card, then discard a card.</text>
 			<prop>
-				<type>Follower|Evolve|Nightmare - Demon World</type>
+				<type>Follower|Evolve|Abysscraft - Demon World</type>
 				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6593,7 +6593,7 @@ Fanfare: Put the top 3 cards of your deck into your graveyard.</text>
 			<prop>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
-				<type>Follower|Nightmare - Undead</type>
+				<type>Follower|Abysscraft - Undead</type>
 				<pt>1/1</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -6609,7 +6609,7 @@ Fanfare: Put the top 3 cards of your deck into your graveyard.</text>
 			<prop>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
-				<type>Spell|Nightmare - Undead</type>
+				<type>Spell|Abysscraft - Undead</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -7127,7 +7127,7 @@ Choose an enemy follower. Destroy it. Search your deck for a Neutral follower an
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_ld03.png">BP02</set>
 			<tablerow>1</tablerow>
 			<prop>
-				<type>Leader|Nightmare</type>
+				<type>Leader|Abysscraft</type>
 				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -7316,7 +7316,7 @@ Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy fol
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
-				<type>Follower|Nightmare - Vampire / Princess</type>
+				<type>Follower|Abysscraft - Vampire / Princess</type>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
@@ -7332,7 +7332,7 @@ Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy fol
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
-				<type>Follower|Nightmare - Vampire / Princess</type>
+				<type>Follower|Abysscraft - Vampire / Princess</type>
 				<pt>2/2</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
