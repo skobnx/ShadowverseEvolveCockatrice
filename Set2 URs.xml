@@ -50,7 +50,7 @@
 			</prop>
 		</card>
 		<card>
-			<name>Imperial Dragoon (Evolved)</name>
+			<name>Imperial Dragoon (Evolved) (U)</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_u04.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>Evolve: Draw 3 cards.</text>
@@ -62,6 +62,66 @@
 				<format-sv>legal</format-sv>
 			</prop>
 		</card>
-		
+		<card>
+			<name>La+ Darkness, Laplace's Demon (SP)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_sp01_3.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Fanfare: This card gets +X/+X. X is the number of "Forest Bat" in your field. 
+Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy follower. Deal 3 damage to it. Deal 1 damage to its leader. 
+(This card will be treated as "Vania, Vampire Princess")</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Abysscraft - Vampire / Princess</type>
+				<pt>2/2</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Vania, Vampire Princess (U)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_u05.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Fanfare: This card gets +X/+X. X is the number of "Forest Bat" in your field. 
+Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy follower. Deal 3 damage to it. Deal 1 damage to its leader.</text>
+			<prop>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<type>Follower|Abysscraft - Vampire / Princess</type>
+				<pt>2/2</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Kaguya (Evolved) (U)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_u06.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>Whenever an amulet enters your field, choose an enemy follower. Deal X damage to it. X is "the cost of the amulet that entered the field". 
+[Evolve]: Put an "Ephemeral Moon" into the field. Add 3 to your leader's health.</text>
+			<prop>
+				<type>Follower|Evolve|Havencraft - Faith</type>
+				<pt>5/5</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<card>
+			<name>Bahamut (Evolved) (U)</name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_u07.png">BP02</set>
+			<tablerow>2</tablerow>
+			<text>If there are 2 or more followers in an enemy field, this card cannot attack an enemy leader. 
+[Evolve]: Destroy all amulets.</text>
+			<prop>
+				<type>Follower|Evolve|Neutral - Divinity / Transcendent</type>
+				<pt>11/11</pt>
+				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
 	</cards>
 </cockatrice_carddatabase>

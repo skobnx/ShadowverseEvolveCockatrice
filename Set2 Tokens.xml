@@ -111,5 +111,19 @@
 				<format-sv>legal</format-sv>
 			</prop>
 		</card>
+		<card>
+			<name>Ephemeral Moon </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_t08.png">BP02</set>
+			<tablerow>0</tablerow>
+			<text>As long as this is in the field, all your "Kaguya" do not take damage during your turns. At the start of your main phase, banish this.</text>
+			<prop>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<type>Amulet|Token|Havencraft - Faith</type>
+				<maintype>Amulet|Token</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
 	</cards>
 </cockatrice_carddatabase>

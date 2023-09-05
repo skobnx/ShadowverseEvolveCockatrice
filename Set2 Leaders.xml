@@ -30,5 +30,16 @@
 				<format-sv>legal</format-sv>
 			</prop>
 		</card>
+		<card>
+			<name>La+ Darkness </name>
+			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_ld03.png">BP02</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Abysscraft</type>
+				<maintype>Leader</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
 	</cards>
 </cockatrice_carddatabase>
