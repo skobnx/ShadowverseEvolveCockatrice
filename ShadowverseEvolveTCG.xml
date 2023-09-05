@@ -5258,18 +5258,6 @@ Bane.
 				<format-sv>legal</format-sv>
 			</prop>
 		</card>
-		<!-- Random Early Stuff -->
-		<card>
-			<name>Sakamata Chloe </name>
-			<set picURL="https://images.shadowcard.io/images/cards/BP06-LDS02.jpg">BP06</set>
-			<tablerow>1</tablerow>
-			<prop>
-				<type>Leader|Dragon</type>
-				<maintype>Leader</maintype>
-				<format-shadowverse>legal</format-shadowverse>
-				<format-sv>legal</format-sv>
-			</prop>
-		</card>
 		<!-- BP02 Main -->
 		<!-- Forestcraft -->
 		<card>
@@ -7363,6 +7351,18 @@ Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy fol
 				<type>Follower|Evolve|Neutral - Divinity / Transcendent</type>
 				<pt>11/11</pt>
 				<maintype>Follower</maintype>
+				<format-shadowverse>legal</format-shadowverse>
+				<format-sv>legal</format-sv>
+			</prop>
+		</card>
+		<!-- Random Early Stuff -->
+		<card>
+			<name>Sakamata Chloe </name>
+			<set picURL="https://images.shadowcard.io/images/cards/BP06-LDS02.jpg">BP06</set>
+			<tablerow>1</tablerow>
+			<prop>
+				<type>Leader|Dragon</type>
+				<maintype>Leader</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
