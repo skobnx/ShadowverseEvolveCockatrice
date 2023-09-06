@@ -5805,7 +5805,7 @@ Fanfare: Discard all cards from your hand. Put the top card of your deck into yo
 			</prop>
 		</card>
 		<card>
-			<name>Daria, Dimensional Witch</name>
+			<name>Daria, Dimensional Witch (Evolved)</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_036.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>As long as this is in the field, when counting for [Spellchain], count the total number of spells and Witch followers in your graveyard. 
@@ -5814,7 +5814,7 @@ Fanfare: Discard all cards from your hand. Put the top card of your deck into yo
 			<prop>
 				<type>Follower|Evolve|Runecraft - Sorcerer</type>
 				<pt>6/6</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
