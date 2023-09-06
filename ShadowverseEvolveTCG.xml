@@ -5284,7 +5284,7 @@ Fanfare: [Combo_3] Put a "Crystalia Eve" into the field.</text>
 			<prop>
 				<type>Follower|Evolve|Forestcraft - Crystalia / Princess</type>
 				<pt>2/2</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -5360,7 +5360,7 @@ Fanfare: [Combo_4] Choose an enemy follower. Deal 5 damage to it.</text>
 			<prop>
 				<type>Follower|Evolve|Forestcraft - Hunter</type>
 				<pt>4/4</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -5389,7 +5389,7 @@ Fanfare: Look at the top 2 cards of your deck. You may reveal a Crystalia follow
 			<prop>
 				<type>Follower|Evolve|Forestcraft - Crystalia</type>
 				<pt>2/4</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -5479,7 +5479,7 @@ Fanfare: This card gets +X/+0. X is the number of cards in your EX Area.</text>
 			<prop>
 				<type>Follower|Evolve|Forestcraft - Spirit / Giant</type>
 				<pt>3/7</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -5558,7 +5558,7 @@ Fanfare: Put a "Thorn Burst" into your EX Area.</text>
 			<prop>
 				<type>Follower|Evolve|Swordcraft - Commander / Levin</type>
 				<pt>3/5</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -5618,7 +5618,7 @@ Last Words: Put a "Leonidas's Resolve" into the field.</text>
 			<prop>
 				<type>Follower|Evolve|Swordcraft - Commander</type>
 				<pt>6/7</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -5663,7 +5663,7 @@ Activate: [2 PP and act this card]: Put 2 "Shield Guardian" into the field.</tex
 			<prop>
 				<type>Follower|Evolve|Swordcraft - Officer / Levin</type>
 				<pt>4/4</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -5751,7 +5751,7 @@ Choose an enemy follower. Deal 3 damage to it. Put a "Knight" into your EX Area.
 			<prop>
 				<type>Follower|Evolve|Swordcraft - Commander</type>
 				<pt>5/5</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -5860,7 +5860,7 @@ Evolve (1): Evolve this card.</text>
 			<prop>
 				<type>Follower|Evolve|Runecraft - Sorcerer / Academy</type>
 				<pt>4/5</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -5918,7 +5918,7 @@ Activate: [Act this card]: Choose an enemy follower. Deal 3 damage to it. If an 
 			<prop>
 				<type>Follower|Evolve|Runecraft - Sorcerer / Alchemist</type>
 				<pt>4/4</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -5976,7 +5976,7 @@ Activate: [Act this card]: Choose an enemy follower. Deal 3 damage to it. If an 
 			<prop>
 				<type>Follower|Evolve|Runecraft - Sorcerer / Academy</type>
 				<pt>3/2</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6065,7 +6065,7 @@ Fanfare: Deal damage equal "the number of cards in your hand" to all enemy leade
 			<prop>
 				<type>Follower|Evolve|Dragoncraft - Dragon Rider</type>
 				<pt>7/7</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6114,7 +6114,7 @@ As long as this is in the field, all your "Megalorca" have [Storm].
 			<prop>
 				<type>Follower|Evolve|Dragoncraft - Dragon Rider / Marine</type>
 				<pt>5/5</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6171,7 +6171,7 @@ Fanfare: Choose an enemy follower. Deal 2 damage to it.</text>
 			<prop>
 				<type>Follower|Evolve|Dragoncraft - Dragon / Killer</type>
 				<pt>3/3</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6260,7 +6260,7 @@ Fanfare: Draw a card. Discard a card from your hand.</text>
 			<prop>
 				<type>Follower|Evolved|Dragoncraft - Dragon Rider</type>
 				<pt>3/3</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6354,7 +6354,7 @@ Fanfare: Deal 3 damage to your leader.</text>
 			<prop>
 				<type>Follower|Evolve|Abysscraft - Demon World</type>
 				<pt>7/6</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6402,7 +6402,7 @@ Fanfare: Each enemy leader discards a random card from hands.</text>
 			<prop>
 				<type>Follower|Evolve|Abysscraft - Demon World</type>
 				<pt>7/7</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6463,7 +6463,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<prop>
 				<type>Follower|Evolve|Abysscraft - Vampire</type>
 				<pt>3/3</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6567,7 +6567,7 @@ At the start of your end phase, if [Crimson] is active for you, draw a card, the
 			<prop>
 				<type>Follower|Evolve|Abysscraft - Demon World</type>
 				<pt>3/3</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6632,7 +6632,7 @@ This card cannot be destroyed by abilities.
 			<prop>
 				<type>Follower|Evolve|Havencraft - Faith / Eidolon</type>
 				<pt>10/10</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6678,7 +6678,7 @@ Fanfare: Choose an amulet in your hand with cost 3 or less. Put it into the fiel
 			<prop>
 				<type>Follower|Evolve|Havencraft - Faith</type>
 				<pt>5/5</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6738,7 +6738,7 @@ Fanfare: Draw a card.</text>
 			<prop>
 				<type>Follower|Evolve|Havencraft - Faith</type>
 				<pt>4/6</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6828,7 +6828,7 @@ Fanfare: Choose an enemy follower with cost 4 or less. Banish it.</text>
 			<prop>
 				<type>Follower|Evolve|Havencraft - Zealotry</type>
 				<pt>5/5</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6906,7 +6906,7 @@ Fanfare: Destroy all other followers.</text>
 			<prop>
 				<type>Follower|Evolve|Neutral - Divinity / Transcendent</type>
 				<pt>11/11</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6951,7 +6951,7 @@ Fanfare: Destroy all other followers.</text>
 			<prop>
 				<type>Follower|Evolve|Neutral - Angel</type>
 				<pt>5/6</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -6995,7 +6995,7 @@ Choose an enemy follower. Deal 3 damage to it. If it's an Evolved follower, deal
 			<prop>
 				<type>Follower|Evolve|Neutral - Splendor</type>
 				<pt>3/3</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -7068,7 +7068,7 @@ Choose an enemy follower. Destroy it. Search your deck for a Neutral follower an
 			<prop>
 				<type>Follower|Evolve|Neutral - Mercenary</type>
 				<pt>4/4</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -7248,7 +7248,7 @@ Choose an enemy follower. Destroy it. Search your deck for a Neutral follower an
 			<prop>
 				<type>Follower|Forestcraft - Crystalia / Princess</type>
 				<pt>2/2</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -7276,7 +7276,7 @@ Choose an enemy follower. Destroy it. Search your deck for a Neutral follower an
 			<prop>
 				<type>Follower|Evolve|Runecraft - Sorcerer / Academy</type>
 				<pt>4/5</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -7289,7 +7289,7 @@ Choose an enemy follower. Destroy it. Search your deck for a Neutral follower an
 			<prop>
 				<type>Follower|Evolve|Dragoncraft - Dragon Rider</type>
 				<pt>7/7</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -7336,7 +7336,7 @@ Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy fol
 			<prop>
 				<type>Follower|Evolve|Havencraft - Faith</type>
 				<pt>5/5</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
@@ -7350,7 +7350,7 @@ Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy fol
 			<prop>
 				<type>Follower|Evolve|Neutral - Divinity / Transcendent</type>
 				<pt>11/11</pt>
-				<maintype>Follower</maintype>
+				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
 			</prop>
