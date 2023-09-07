@@ -5776,7 +5776,7 @@ Choose an enemy follower. Deal 3 damage to it. Put a Knight token into your EX A
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_035.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (1): Evolve this card. 
-As long as this is in the field, when counting for [Spellchain], count the total number of spells and Witch followers in your graveyard. 
+As long as this is in the field, when counting for [Spellchain], count the total number of spells and Runecraft followers in your graveyard. 
 Fanfare: Discard all cards from your hand. Put the top card of your deck into your EX Area. Repeat this process until your EX Area is full.</text>
 			<prop>
 				<manacost>6</manacost>
@@ -5792,7 +5792,7 @@ Fanfare: Discard all cards from your hand. Put the top card of your deck into yo
 			<name>Daria, Dimensional Witch (Evolved)</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_036.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>As long as this is in the field, when counting for [Spellchain], count the total number of spells and Witch followers in your graveyard. 
+			<text>As long as this is in the field, when counting for [Spellchain], count the total number of spells and Runecraft followers in your graveyard. 
 [Evolve]: Choose a follower in your EX Area. When you play it this turn, subtract 5 from its cost. 
 [Evolve]: Choose a spell in your EX Area. When you play it this turn, subtract 5 from its cost.</text>
 			<prop>
@@ -6240,7 +6240,7 @@ Fanfare: Draw a card. Discard a card from your hand.</text>
 			<name>Dragontamer (Evolved)</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_066.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>[Evolve]: [Discard a card from your hand]: Choose a Dragon follower in your graveyard. Add it to your hand.</text>
+			<text>[Evolve]: [Discard a card from your hand]: Choose a Dragoncraft follower in your graveyard. Add it to your hand.</text>
 			<prop>
 				<type>Follower|Evolved|Dragoncraft - Dragon Rider</type>
 				<pt>3/3</pt>
@@ -7140,7 +7140,7 @@ Choose an enemy follower. Destroy it. Search your deck for a Neutral follower an
 			<name>Leonidas's Resolve </name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_t03.png">BP02</set>
 			<tablerow>0</tablerow>
-			<text>Whenever a Royal follower enters your field, it gets +3/+3 and gains [Rush].</text>
+			<text>Whenever a Swordcraft follower enters your field, it gets +3/+3 and gains [Rush].</text>
 			<prop>
 				<manacost>8</manacost>
 				<cmc>8</cmc>
@@ -7159,7 +7159,7 @@ Choose an enemy follower. Destroy it. Search your deck for a Neutral follower an
 				<manacost>1</manacost>
 				<cmc>1</cmc>
 				<type>Follower|Token|Runecraft - Chess</type>
-				<pt>1/1</pt>
+				<pt>2/1</pt>
 				<maintype>Follower|Token</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -7199,7 +7199,7 @@ Choose an enemy follower. Destroy it. Search your deck for a Neutral follower an
 			<name>Draconic Weapon </name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_t07.png">BP02</set>
 			<tablerow>0</tablerow>
-			<text>Activate: [act this card and put it into graveyard]: Choose one of your Dragon followers. It gets +0/+1 and gains the Armed trait."</text>
+			<text>Activate: [act this card and put it into graveyard]: Choose one of your Dragoncraft followers. It gets +0/+1 and gains the Armed trait."</text>
 			<prop>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
