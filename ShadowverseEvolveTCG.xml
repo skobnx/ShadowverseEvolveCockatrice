@@ -5294,7 +5294,7 @@ Fanfare: [Combo_3] Put a "Crystalia Eve" into the field.</text>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_003.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>[Storm] 
-Last Words: Look at the top 4 cards of your deck. You may put a Elf follower from among them into the field. Put the rest on the bottom of your deck in any order.</text>
+Last Words: Look at the top 4 cards of your deck. You may put a Forestcraft follower from among them into the field. Put the rest on the bottom of your deck in any order.</text>
 			<prop>
 				<manacost>7</manacost>
 				<cmc>7</cmc>
@@ -5325,7 +5325,7 @@ Last Words: Look at the top 4 cards of your deck. You may put a Elf follower fro
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_005.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>[Rush]
-[Strike]: [Banish a card in your EX area]: Choose an enemy leader or an enemy follower. Deal 2 damage to it. Put 2 "Fairy" into the field.</text>
+[Strike]: [Banish a card in your EX area]: Choose an enemy leader or an enemy follower. Deal 2 damage to it. Put 2 Fairy tokens into the field.</text>
 			<prop>
 				<manacost>5</manacost>
 				<cmc>5</cmc>
@@ -5488,7 +5488,7 @@ Fanfare: This card gets +X/+0. X is the number of cards in your EX Area.</text>
 			<name>Elf Bard</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_016.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Whenever one of your followers Evolves, put a "Fairy Wisp" into your EX Area.</text>
+			<text>Whenever one of your followers Evolves, put a Fairy Wisp token into your EX Area.</text>
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
@@ -5504,23 +5504,7 @@ Fanfare: This card gets +X/+0. X is the number of cards in your EX Area.</text>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_017.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>[Rush] 
-Fanfare: Put a "Thorn Burst" into your EX Area.</text>
-			<prop>
-				<manacost>4</manacost>
-				<cmc>4</cmc>
-				<type>Follower|Forestcraft - Spirit / Plantfolk</type>
-				<pt>4/3</pt>
-				<maintype>Follower</maintype>
-				<format-shadowverse>legal</format-shadowverse>
-				<format-sv>legal</format-sv>
-			</prop>
-		</card>
-		<card>
-			<name>Rose Deer</name>
-			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_017.png">BP02</set>
-			<tablerow>2</tablerow>
-			<text>[Rush] 
-Fanfare: Put a "Thorn Burst" into your EX Area.</text>
+Fanfare: Put a Thorn Burst token into your EX Area.</text>
 			<prop>
 				<manacost>4</manacost>
 				<cmc>4</cmc>
@@ -5614,7 +5598,7 @@ During your turn, whenever this card deals clash damage, stand this card.</text>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_023.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>[Evolve]: Choose an enemy follower. Deal 5 damage to it and to this card. 
-Last Words: Put a "Leonidas's Resolve" into the field.</text>
+Last Words: Put a Leonidas's Resolve token into the field.</text>
 			<prop>
 				<type>Follower|Evolve|Swordcraft - Commander</type>
 				<pt>6/7</pt>
@@ -5628,7 +5612,7 @@ Last Words: Put a "Leonidas's Resolve" into the field.</text>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_024.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>[Ward] 
-Activate: [2 PP and act this card]: Put 2 "Shield Guardian" into the field.</text>
+Activate: [2 PP and act this card]: Put 2 Shield Guardian tokens into the field.</text>
 			<prop>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
@@ -5688,7 +5672,7 @@ Activate: [2 PP and act this card]: Put 2 "Shield Guardian" into the field.</tex
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_028.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>[Quick] 
-Choose an enemy follower. Deal 3 damage to it. Put a "Knight" into your EX Area.</text>
+Choose an enemy follower. Deal 3 damage to it. Put a Knight token into your EX Area.</text>
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
@@ -5823,7 +5807,7 @@ Fanfare: Discard all cards from your hand. Put the top card of your deck into yo
 			<name>Sun Oracle Pascale</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_037.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Fanfare: Put a "Magic Sediment" into the field. 
+			<text>Fanfare: Put a Magic Sediment token into the field. 
 Quick/Activate: [Act this card] and [Earth Rite]: Choose an enemy follower. It gets -2/-2. 
 Quick/Activate: [Act this card] and [Earth Rite]: Choose one of your own followers. It gets +2/+2.</text>
 			<prop>
@@ -5914,7 +5898,7 @@ Activate: [Act this card]: Choose an enemy follower. Deal 3 damage to it. If an 
 			<name>Remi &amp; Rami, Witchy Duo (Evolved)</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_043.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>[Evolve]: Put a "Strikeform Golem" into the field. [Earth Rite] Give it +2/+0.</text>
+			<text>[Evolve]: Put a Strikeform Golem token into the field. [Earth Rite] Give it +2/+0.</text>
 			<prop>
 				<type>Follower|Evolve|Runecraft - Sorcerer / Alchemist</type>
 				<pt>4/4</pt>
@@ -5943,7 +5927,7 @@ Activate: [Act this card]: Choose an enemy follower. Deal 3 damage to it. If an 
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_045.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>Choose up to 2 of the following [Spellchain_10] Choose up to 3 instead: 
-[1] Choose an enemy follower. Deal 3 damage to it. [2] Put a "Guardform Golem" into the field. [3] Draw a card. </text>
+[1] Choose an enemy follower. Deal 3 damage to it. [2] Put a Guardform Golem token into the field. [3] Draw a card. </text>
 			<prop>
 				<manacost>4</manacost>
 				<cmc>4</cmc>
@@ -6015,7 +5999,7 @@ Last Words: Add 2 to a [Stack] in your field.</text>
 			<name>Magical Strategy</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_050.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Put a "Magical Pawn" into the field.</text>
+			<text>Put a Magical Pawn token into the field.</text>
 			<prop>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
@@ -6074,9 +6058,9 @@ Fanfare: Deal damage equal "the number of cards in your hand" to all enemy leade
 			<name>Dragonsong Flute</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_054.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>When you discard this from your hand, put a "Hellflame Dragon" into your EX Area.
+			<text>When you discard this from your hand, put a Hellflame Dragon token into your EX Area.
 ----------
-Fanfare: [3 PP]: Put a "Hellflame Dragon" into the field. Draw a card. Activate: [Act this amulet and discard a card from your hand]: Put a "Hellflame Dragon" into your EX Area. Use this ability only if [Overflow] is active for you.</text>
+Fanfare: [3 PP]: Put a Hellflame Dragon token into the field. Draw a card. Activate: [Act this amulet and discard a card from your hand]: Put a "Hellflame Dragon" into your EX Area. Use this ability only if [Overflow] is active for you.</text>
 			<prop>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
@@ -6092,8 +6076,8 @@ Fanfare: [3 PP]: Put a "Hellflame Dragon" into the field. Draw a card. Activate:
 			<tablerow>2</tablerow>
 			<text>Evolve (2): Evolve this card. 
 [Ward] 
-As long as this is in the field, all your "Megalorca" have [Rush]. 
-Fanfare: Put a "Megalorca" into the field.</text>
+As long as this is in the field, all your Megalorca tokens have [Rush]. 
+Fanfare: Put a Megalorca token into the field.</text>
 			<prop>
 				<manacost>5</manacost>
 				<cmc>5</cmc>
@@ -6109,8 +6093,8 @@ Fanfare: Put a "Megalorca" into the field.</text>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_056.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>[Ward] 
-As long as this is in the field, all your "Megalorca" have [Storm]. 
-[Evolve]: Put a "Megalorca" into the field. </text>
+As long as this is in the field, all your Megalorca tokens have [Storm]. 
+[Evolve]: Put a Megalorca tokens into the field. </text>
 			<prop>
 				<type>Follower|Evolve|Dragoncraft - Dragon Rider / Marine</type>
 				<pt>5/5</pt>
@@ -6137,7 +6121,7 @@ As long as this is in the field, all your "Megalorca" have [Storm].
 			<name>Polyphonic Roar</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_058.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Once during each of your turns, when a "Dragon" enters your field, choose an enemy leader or an enemy follower. Deal 5 damage to it.</text>
+			<text>Once during each of your turns, when a Dragon token enters your field, choose an enemy leader or an enemy follower. Deal 5 damage to it.</text>
 			<prop>
 				<manacost>5</manacost>
 				<cmc>5</cmc>
@@ -6270,7 +6254,7 @@ Fanfare: Draw a card. Discard a card from your hand.</text>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_067.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>"Attack damage dealt to leaders" and "clash damage" of this card are doubled. 
-Fanfare: [3 PP]: Put a "Dragon" into the field.</text>
+Fanfare: [3 PP]: Put a Dragon token into the field.</text>
 			<prop>
 				<manacost>4</manacost>
 				<cmc>4</cmc>
@@ -6285,7 +6269,7 @@ Fanfare: [3 PP]: Put a "Dragon" into the field.</text>
 			<name>Draconic Armor</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_068.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Put a "Draconic Weapon" into the field. If [Overflow] is active for you, put 2 instead.</text>
+			<text>Put a Draconic Weapon token into the field. If [Overflow] is active for you, put 2 instead.</text>
 			<prop>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
@@ -6299,8 +6283,8 @@ Fanfare: [3 PP]: Put a "Dragon" into the field.</text>
 			<name>Vania, Vampire Princess</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_069.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Fanfare: This card gets +X/+X. X is the number of "Forest Bat" in your field. 
-Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy follower. Deal 3 damage to it. Deal 1 damage to its leader.</text>
+			<text>Fanfare: This card gets +X/+X. X is the number of Forest Bat tokens in your field. 
+Activate: [1 PP and put a Forest Bat token into your graveyard]: Choose an enemy follower. Deal 3 damage to it. Deal 1 damage to its leader.</text>
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
@@ -6315,8 +6299,8 @@ Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy fol
 			<name>La+ Darkness, Laplace's Demon</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_070.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Fanfare: This card gets +X/+X. X is the number of "Forest Bat" in your field. 
-Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy follower. Deal 3 damage to it. Deal 1 damage to its leader. 
+			<text>Fanfare: This card gets +X/+X. X is the number of Forest Bat tokens in your field. 
+Activate: [1 PP and put a Forest Bat token into your graveyard]: Choose an enemy follower. Deal 3 damage to it. Deal 1 damage to its leader. 
 (This card will be treated as "Vania, Vampire Princess")</text>
 			<prop>
 				<manacost>2</manacost>
@@ -6412,7 +6396,7 @@ Fanfare: Each enemy leader discards a random card from hands.</text>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_076.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>Fanfare: Look at the top 3 cards of your deck. You may reveal a Vampire card from among them and add it to your hand. Put the rest on the bottom of your deck in any order. 
-Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" into the field.</text>
+Activate: [1 PP, act this card and put it into graveyard]: Put a Forest Bat token into the field.</text>
 			<prop>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
@@ -6427,7 +6411,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_077.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>Fanfare: Look at the top 3 cards of your deck. You may reveal a Vampire card from among them and add it to your hand. Put the rest on the bottom of your deck in any order. 
-Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" into the field.
+Activate: [1 PP, act this card and put it into graveyard]: Put a Forest Bat token into the field.
 (This card is treated as "Vampiric Fortress".)</text>
 			<prop>
 				<manacost>1</manacost>
@@ -6443,7 +6427,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_078.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (1): Evolve this card. 
-[Strike]: Put a "Forest Bat" into the field.</text>
+[Strike]: Put a Forest Bat token into the field.</text>
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
@@ -6458,8 +6442,8 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<name>Veight, Vampire Noble (Evolved)</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_079.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>[Strike]: Put a "Forest Bat" into the field.
-[Evolve]: Put a "Forest Bat" into your EX Area.</text>
+			<text>[Strike]: Put a Forest Bat token into the field.
+[Evolve]: Put a Forest Bat token into your EX Area.</text>
 			<prop>
 				<type>Follower|Evolve|Abysscraft - Vampire</type>
 				<pt>3/3</pt>
@@ -6472,7 +6456,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<name>Trick Dullahan</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_080.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Fanfare: Put a "Ghost" into your EX Area. [Necrocharge_10] Put 3 instead.</text>
+			<text>Fanfare: Put a Ghost token into your EX Area. [Necrocharge_10] Put 3 instead.</text>
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
@@ -6487,7 +6471,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<name>Precious Bloodfangs</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_081.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Choose 1 of the following: [1] Put a number of "Forest Bat" into the field equal to "the number of cards in enemy fields". [2] All your "Forest Bat" get +1/+1.</text>
+			<text>Choose 1 of the following: [1] Put a number of Forest Bat token into the field equal to "the number of cards in enemy fields". [2] All your Forest Bat tokens get +1/+1.</text>
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
@@ -6501,7 +6485,7 @@ Activate: [1 PP, act this card and put it into graveyard]: Put a "Forest Bat" in
 			<name>Yes My Dark</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_082.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Choose 1 of the following: [1] Put a number of "Forest Bat" into the field equal to "the number of cards in enemy fields". [2] All your "Forest Bat" get +1/+1. 
+			<text>Choose 1 of the following: [1] Put a number of Forest Bat token into the field equal to "the number of cards in enemy fields". [2] All your Forest Bat tokens get +1/+1. 
 (This card is treated as "Precious Bloodfangs.")</text>
 			<prop>
 				<manacost>2</manacost>
@@ -6593,7 +6577,7 @@ Fanfare: Put the top 3 cards of your deck into your graveyard.</text>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_088.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>Choose 1 of the following [Necrocharge_10] Choose up to 2 instead: 
-[1] Choose a follower in your graveyard with cost 2 or less. Put it into the field. [2] Put 2 "Ghost" into the field.</text>
+[1] Choose a follower in your graveyard with cost 2 or less. Put it into the field. [2] Put 2 Ghost tokens into the field.</text>
 			<prop>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
@@ -6674,7 +6658,7 @@ Fanfare: Choose an amulet in your hand with cost 3 or less. Put it into the fiel
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_093.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>Whenever an amulet enters your field, choose an enemy follower. Deal X damage to it. X is "the cost of the amulet that entered the field". 
-[Evolve]: Put an "Ephemeral Moon" into the field. Add 3 to your leader's health.</text>
+[Evolve]: Put an Ephemeral Moon token into the field. Add 3 to your leader's health.</text>
 			<prop>
 				<type>Follower|Evolve|Havencraft - Faith</type>
 				<pt>5/5</pt>
@@ -6737,7 +6721,7 @@ Fanfare: Draw a card.</text>
 [Evolve]: Add 2 to your leader's health.</text>
 			<prop>
 				<type>Follower|Evolve|Havencraft - Faith</type>
-				<pt>4/6</pt>
+				<pt>4/5</pt>
 				<maintype>Follower|Evolve</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -6762,8 +6746,8 @@ Fanfare: Draw a card.</text>
 			<name>Beastcall Aria</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_099.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Fanfare: Put a "Holy Falcon" into the field.
-Activate: [2 PP, act this card and put it into graveyard]: Put a "Holyflame Tiger" into the field.</text>
+			<text>Fanfare: Put a Holy Falcon token into the field.
+Activate: [2 PP, act this card and put it into graveyard]: Put a Holyflame Tiger token into the field.</text>
 			<prop>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
@@ -6805,7 +6789,7 @@ Activate: [2 PP]: Add 1 to your leader's health.</text>
 			</prop>
 		</card>
 		<card>
-			<name>Soul Collector</name>
+			<name>Soul Collector </name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_102.png">BP02</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (1): Evolve this card. 
@@ -6824,7 +6808,7 @@ Fanfare: Choose an enemy follower with cost 4 or less. Banish it.</text>
 			<name>Soul Collector (Evolved)</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_103.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Evolve: Choose a Bishop follower in your graveyard. Add it to your hand.</text>
+			<text>Evolve: Choose a Havencraft follower in your graveyard. Add it to your hand.</text>
 			<prop>
 				<type>Follower|Evolve|Havencraft - Zealotry</type>
 				<pt>5/5</pt>
@@ -7298,8 +7282,8 @@ Choose an enemy follower. Destroy it. Search your deck for a Neutral follower an
 			<name>La+ Darkness, Laplace's Demon (SP)</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_sp01_3.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Fanfare: This card gets +X/+X. X is the number of "Forest Bat" in your field. 
-Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy follower. Deal 3 damage to it. Deal 1 damage to its leader. 
+			<text>Fanfare: This card gets +X/+X. X is the number of Forest Bat tokens in your field. 
+Activate: [1 PP and put a Forest Bat token into your graveyard]: Choose an enemy follower. Deal 3 damage to it. Deal 1 damage to its leader. 
 (This card will be treated as "Vania, Vampire Princess")</text>
 			<prop>
 				<manacost>2</manacost>
@@ -7315,8 +7299,8 @@ Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy fol
 			<name>Vania, Vampire Princess (U)</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_u05.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>Fanfare: This card gets +X/+X. X is the number of "Forest Bat" in your field. 
-Activate: [1 PP and put a "Forest Bat" into your graveyard]: Choose an enemy follower. Deal 3 damage to it. Deal 1 damage to its leader.</text>
+			<text>Fanfare: This card gets +X/+X. X is the number of Forest Bat tokens in your field. 
+Activate: [1 PP and put a Forest Bat token into your graveyard]: Choose an enemy follower. Deal 3 damage to it. Deal 1 damage to its leader.</text>
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
