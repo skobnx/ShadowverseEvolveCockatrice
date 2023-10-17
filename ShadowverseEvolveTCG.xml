@@ -6240,7 +6240,7 @@ Fanfare: Draw a card. Discard a card from your hand.</text>
 			<name>Dragontamer (Evolved)</name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/BP02/bp02_066.png">BP02</set>
 			<tablerow>2</tablerow>
-			<text>[Evolve]: [Discard a card from your hand]: Choose a Dragoncraft follower in your graveyard. Add it to your hand.</text>
+			<text>[Evolve]: [Discard a card from your hand]: Choose a Wyrmkin follower in your graveyard. Add it to your hand.</text>
 			<prop>
 				<type>Follower|Evolved|Dragoncraft - Dragon Rider</type>
 				<pt>3/3</pt>
