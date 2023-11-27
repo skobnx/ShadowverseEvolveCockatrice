@@ -2209,7 +2209,7 @@ Select an enemy follower on the field and deal it 2 damage. If a follower on you
 			<prop>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
-				<type>Follower|Spell - Umamusume</type>
+				<type>Spell|Runecraft - Umamusume</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
