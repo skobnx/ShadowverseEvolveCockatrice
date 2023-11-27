@@ -8395,7 +8395,7 @@ Select an enemy follower on the field and deal it 2 damage. If a follower on you
 			<prop>
 				<manacost>1</manacost>
 				<cmc>1</cmc>
-				<type>Follower|Spell - Umamusume</type>
+				<type>Spell|Runecraft - Umamusume</type>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -9314,14 +9314,14 @@ You can have up to 10 copies of this card in your Evolve Deck.</text>
 		</card>
 		<!-- CP01 SPs -->
 		<card>
-			<name>Silence Suzuka (SP)</name>
+			<name>Silence Suzuka (SP) </name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp01.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (2): Evolve this follower.
 Feed (1): This follower begins Racing.
 Storm.</text>
 			<prop>
-				<manacost><4/manacost>
+				<manacost>4</manacost>
 				<cmc>4</cmc>
 				<type>Follower|Forestcraft - Umamusume</type>
 				<pt>4/1</pt>
@@ -9331,7 +9331,7 @@ Storm.</text>
 			</prop>
 		</card>
 		<card>
-			<name>Silence Suzuka (Evolved) (SP)</name>
+			<name>Silence Suzuka (Evolved) (SP) </name>
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp02.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Storm. 
