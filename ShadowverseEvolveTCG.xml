@@ -2178,7 +2178,7 @@ When this follower begins Racing, give it +1/+1. Then select up to 1 enemy follo
 				<manacost>3</manacost>
 				<cmc>3/3</cmc>
 				<type>Follower|Forestcraft - Umamusume</type>
-				<pt></pt>
+				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -3539,7 +3539,6 @@ Draw 2 cards. Spellchain (10): Recover 1 play point.</text>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
 				<type>Spell|Runecraft - Mage</type>
-				<pt></pt>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -3689,7 +3688,6 @@ Select an enemy follower on the field and destroy it. Spellchain (10): Deal 3 da
 				<manacost>1</manacost>
 				<cmc>1</cmc>
 				<type>Amulet|Runecraft - Earth Sigil</type>
-				<pt></pt>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -4996,7 +4994,6 @@ At the start of your end phase, if your leader's defense is 6 or less, (tap), pu
 				<manacost>3</manacost>
 				<cmc>3</cmc>
 				<type>Amulet|Neutral - Archfiend</type>
-				<pt></pt>
 				<maintype>Amulet</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -5117,7 +5114,6 @@ Draw a card.</text>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
 				<type>Spell|Neutral - Lightborne</type>
-				<pt></pt>
 				<maintype>Spell</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -7957,9 +7953,9 @@ Fanfare: Look at the top card of your deck. You may put it onto the bottom of yo
 When this follower begins Racing, give it +1/+1. Then select up to 1 enemy follower on the field and return it to its owner's hand. (Tokens returned to the hand are removed from the game.)</text>
 			<prop>
 				<manacost>3</manacost>
-				<cmc>3/3</cmc>
+				<cmc>3</cmc>
 				<type>Follower|Forestcraft - Umamusume</type>
-				<pt></pt>
+				<pt>3/3</pt>
 				<maintype>Follower</maintype>
 				<format-shadowverse>legal</format-shadowverse>
 				<format-sv>legal</format-sv>
@@ -9414,7 +9410,8 @@ Activate: Engage this card: Select an enemy leader or enemy follower on the fiel
 			<set picURL="https://shadowverse-evolve.com/wordpress/wp-content/images/cardlist/CP01/cp01-sp07.png">CP01</set>
 			<tablerow>2</tablerow>
 			<text>Evolve (1): Evolve this follower. 
-Feed (1): This follower begins Racing. Whenever you play a spell, select an enemy follower on the field and give it -1/-1.</text>
+Feed (1): This follower begins Racing. 
+Whenever you play a spell, select an enemy follower on the field and give it -1/-1.</text>
 			<prop>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
